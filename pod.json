@@ -1,0 +1,44 @@
+{
+  "id": "jenkins",
+  "kind": "Pod",
+  "apiVersion": "v1beta1",
+  "desiredState": {
+    "manifest": {
+      "version": "v1beta1",
+      "id": "jenkins",
+      "containers": [
+        {
+          "name": "jenkins",
+          "image": "csanchez/jenkins-swarm:1.565.3",
+          "ports": [
+            {
+              "containerPort": 8080,
+              "hostPort": 8080
+            },
+            {
+              "containerPort": 50000,
+              "hostPort": 50000
+            }
+          ],
+          "volumeMounts": [
+            {
+              "name": "jenkins-data",
+              "mountPath": "/var/jenkins_home"
+            }
+          ]
+        }
+      ],
+      "volumes": [
+        {
+          "name": "jenkins-data",
+          "source": {
+            "emptyDir": {}
+          }
+        }
+      ]
+    }
+  },
+  "labels": {
+    "name": "jenkins"
+  }
+}
