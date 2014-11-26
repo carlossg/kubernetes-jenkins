@@ -15,11 +15,11 @@
           "containers": [
             {
               "name": "jenkins-slave",
-              "image": "csanchez/jenkins-swarm-slave:1.20",
+              "image": "csanchez/jenkins-swarm-slave:1.21",
               "command": [
                 "sh",
                 "-c",
-                "/usr/local/bin/jenkins-slave.sh -master http://$JENKINS_SERVICE_HOST:$JENKINS_SERVICE_PORT -username jenkins -password jenkins -executors 1"
+                "/usr/local/bin/jenkins-slave.sh -master http://$JENKINS_SERVICE_HOST:$JENKINS_SERVICE_PORT -tunnel $JENKINS_SLAVE_SERVICE_HOST:$JENKINS_SLAVE_SERVICE_PORT -username jenkins -password jenkins -executors 1"
               ]
             }
           ]

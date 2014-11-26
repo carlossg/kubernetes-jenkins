@@ -9,7 +9,7 @@
       "containers": [
         {
           "name": "jenkins",
-          "image": "csanchez/jenkins-swarm:1.565.3",
+          "image": "csanchez/jenkins-swarm:1.565.3.3",
           "ports": [
             {
               "containerPort": 8080,
