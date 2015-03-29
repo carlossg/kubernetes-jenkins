@@ -1,0 +1,5690 @@
+{
+  "version": 1,
+  "width": 181,
+  "height": 48,
+  "duration": 109.588404,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.011006,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000013,
+      "lu"
+    ],
+    [
+      0.000021,
+      "s"
+    ],
+    [
+      0.000006,
+      "t"
+    ],
+    [
+      0.000012,
+      "e"
+    ],
+    [
+      0.000019,
+      "r"
+    ],
+    [
+      0.000128,
+      "/"
+    ],
+    [
+      0.000009,
+      "k"
+    ],
+    [
+      0.000017,
+      "u"
+    ],
+    [
+      0.000007,
+      "b"
+    ],
+    [
+      0.000034,
+      "e"
+    ],
+    [
+      0.000010,
+      "c"
+    ],
+    [
+      0.000006,
+      "t"
+    ],
+    [
+      0.000028,
+      "l"
+    ],
+    [
+      0.000021,
+      "."
+    ],
+    [
+      0.000008,
+      "s"
+    ],
+    [
+      0.000028,
+      "h"
+    ],
+    [
+      0.000027,
+      " "
+    ],
+    [
+      0.000009,
+      "c"
+    ],
+    [
+      0.000107,
+      "r"
+    ],
+    [
+      0.000006,
+      "e"
+    ],
+    [
+      0.000029,
+      "a"
+    ],
+    [
+      0.000047,
+      "t"
+    ],
+    [
+      0.000013,
+      "e"
+    ],
+    [
+      0.000019,
+      " "
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      0.000016,
+      "f"
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000019,
+      "k"
+    ],
+    [
+      0.000020,
+      "u"
+    ],
+    [
+      0.000007,
+      "b"
+    ],
+    [
+      0.000017,
+      "e"
+    ],
+    [
+      0.000014,
+      "r"
+    ],
+    [
+      0.000017,
+      "n"
+    ],
+    [
+      0.000007,
+      "e"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000019,
+      "e"
+    ],
+    [
+      0.000017,
+      "s"
+    ],
+    [
+      0.000019,
+      "-"
+    ],
+    [
+      0.000008,
+      "j"
+    ],
+    [
+      0.000023,
+      "e"
+    ],
+    [
+      0.000018,
+      "n"
+    ],
+    [
+      0.000018,
+      "k"
+    ],
+    [
+      0.000008,
+      "i"
+    ],
+    [
+      0.000023,
+      "n"
+    ],
+    [
+      0.000019,
+      "s"
+    ],
+    [
+      0.000020,
+      "/"
+    ],
+    [
+      0.000015,
+      "p"
+    ],
+    [
+      0.000029,
+      "o"
+    ],
+    [
+      0.000021,
+      "d"
+    ],
+    [
+      0.000024,
+      "."
+    ],
+    [
+      0.000022,
+      "j"
+    ],
+    [
+      0.000008,
+      "s"
+    ],
+    [
+      0.000026,
+      "o"
+    ],
+    [
+      0.000020,
+      "n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.057941,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000114,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl create -f kubernetes-jenkins/pod.json\r\n"
+    ],
+    [
+      0.904852,
+      "jenkins\r\n"
+    ],
+    [
+      0.001857,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000010,
+      "l"
+    ],
+    [
+      0.000006,
+      "u"
+    ],
+    [
+      0.000021,
+      "s"
+    ],
+    [
+      0.000015,
+      "t"
+    ],
+    [
+      0.000006,
+      "e"
+    ],
+    [
+      0.000043,
+      "r"
+    ],
+    [
+      0.000014,
+      "/k"
+    ],
+    [
+      0.000007,
+      "u"
+    ],
+    [
+      0.000035,
+      "be"
+    ],
+    [
+      0.000044,
+      "c"
+    ],
+    [
+      0.000021,
+      "t"
+    ],
+    [
+      0.000007,
+      "l"
+    ],
+    [
+      0.000025,
+      "."
+    ],
+    [
+      0.000009,
+      "s"
+    ],
+    [
+      0.000029,
+      "h"
+    ],
+    [
+      0.000008,
+      " "
+    ],
+    [
+      0.000024,
+      "g"
+    ],
+    [
+      0.000064,
+      "e"
+    ],
+    [
+      0.000008,
+      "t"
+    ],
+    [
+      0.000026,
+      " "
+    ],
+    [
+      0.000008,
+      "p"
+    ],
+    [
+      0.000027,
+      "o"
+    ],
+    [
+      0.000044,
+      "d"
+    ],
+    [
+      0.000009,
+      "s\r\n"
+    ],
+    [
+      0.056265,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000090,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get pods\r\n"
+    ],
+    [
+      1.000000,
+      "POD                                          IP                  CONTAINER(S)            IMAGE(S)                            HOST                                                                 LABELS                                                        "
+    ],
+    [
+      0.000013,
+      "              STATUS              CREATED\r\nelasticsearch-logging-controller-fplln       10.244.0.3          elasticsearch-logging   kubernetes/elasticsearch:1.0        k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=elasticsearch-logging               Running             13 minutes\r\njenkins        "
+    ],
+    [
+      0.000009,
+      "                              10.244.1.4          jenkins                "
+    ],
+    [
+      0.000004,
+      " csanchez/jenkins-swarm:1.565.3.3    "
+    ],
+    [
+      0.000004,
+      "k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149   name=jenkins"
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "Pending             "
+    ],
+    [
+      0.000003,
+      "7 seconds\r\n"
+    ],
+    [
+      0.000004,
+      "kibana-logging-controller-ls6k1        "
+    ],
+    [
+      0.000003,
+      "      10.244.0.7        "
+    ],
+    [
+      0.000003,
+      "  kibana-logging"
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000003,
+      "kubernetes/kibana:1.1        "
+    ],
+    [
+      0.000003,
+      "       k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   "
+    ],
+    [
+      0.000003,
+      "kubernetes.io/cluster-service=true,name=kibana-logging                "
+    ],
+    [
+      0.000003,
+      "      Running        "
+    ],
+    [
+      0.000003,
+      "     13 minutes"
+    ],
+    [
+      0.000003,
+      "\r\nkube-dns-gziey"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "               "
+    ],
+    [
+      0.000040,
+      "10.244.0.4          etcd                "
+    ],
+    [
+      0.000006,
+      "    quay.io/coreos/etcd:v2.0.3          k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79"
+    ],
+    [
+      0.000005,
+      "   k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns        "
+    ],
+    [
+      0.000003,
+      "   Running        "
+    ],
+    [
+      0.000003,
+      "     13 minutes"
+    ],
+    [
+      0.000007,
+      "\r\n                        "
+    ],
+    [
+      0.000003,
+      "                     "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "    kube2sky"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "kubernetes/kube2sky:1.1        "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000325,
+      "                                                \r\n                                                                 skydns                  kubernetes/skydns:2015-03-11-001                                                                                                                                                                         \r\nmonitoring-heapster-controller-0133o         10.244.0.6          heapster                kubernetes/heapster:v0.8            k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=heapster,uses=monitoring-influxdb   Running             13 minutes\r\nmonitoring-influx-grafana-controller-oh43e   10.244.0.5          influxdb                kubernetes/heapster_influxdb:v0.3   k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=influxGrafana                       Running             13 minutes\r\n                                                                 grafana      "
+    ],
+    [
+      0.000009,
+      "           kubernetes/heapster_grafana:v0.4                                                                                                                                                                         \r\n"
+    ],
+    [
+      0.001356,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000011,
+      "l"
+    ],
+    [
+      0.000007,
+      "u"
+    ],
+    [
+      0.000031,
+      "st"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000050,
+      "r"
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      0.000059,
+      "k"
+    ],
+    [
+      0.000013,
+      "u"
+    ],
+    [
+      0.000024,
+      "b"
+    ],
+    [
+      0.000028,
+      "e"
+    ],
+    [
+      0.000008,
+      "ct"
+    ],
+    [
+      0.000031,
+      "l"
+    ],
+    [
+      0.000008,
+      "."
+    ],
+    [
+      0.000025,
+      "s"
+    ],
+    [
+      0.000008,
+      "h"
+    ],
+    [
+      0.000027,
+      " "
+    ],
+    [
+      0.000008,
+      "c"
+    ],
+    [
+      0.000029,
+      "r"
+    ],
+    [
+      0.000022,
+      "e"
+    ],
+    [
+      0.000028,
+      "a"
+    ],
+    [
+      0.000009,
+      "t"
+    ],
+    [
+      0.000026,
+      "e"
+    ],
+    [
+      0.000026,
+      " "
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      0.000028,
+      "f"
+    ],
+    [
+      0.000039,
+      " "
+    ],
+    [
+      0.000009,
+      "k"
+    ],
+    [
+      0.000019,
+      "u"
+    ],
+    [
+      0.000020,
+      "b"
+    ],
+    [
+      0.000033,
+      "e"
+    ],
+    [
+      0.000005,
+      "r"
+    ],
+    [
+      0.000025,
+      "n"
+    ],
+    [
+      0.000019,
+      "e"
+    ],
+    [
+      0.000031,
+      "t"
+    ],
+    [
+      0.000029,
+      "e"
+    ],
+    [
+      0.000006,
+      "s"
+    ],
+    [
+      0.000025,
+      "-"
+    ],
+    [
+      0.000021,
+      "j"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000028,
+      "n"
+    ],
+    [
+      0.000024,
+      "k"
+    ],
+    [
+      0.000025,
+      "i"
+    ],
+    [
+      0.000024,
+      "n"
+    ],
+    [
+      0.000026,
+      "s"
+    ],
+    [
+      0.000026,
+      "/"
+    ],
+    [
+      0.000023,
+      "s"
+    ],
+    [
+      0.000022,
+      "e"
+    ],
+    [
+      0.000024,
+      "r"
+    ],
+    [
+      0.000039,
+      "v"
+    ],
+    [
+      0.000032,
+      "i"
+    ],
+    [
+      0.000021,
+      "c"
+    ],
+    [
+      0.000025,
+      "e"
+    ],
+    [
+      0.000039,
+      "-"
+    ],
+    [
+      0.000028,
+      "h"
+    ],
+    [
+      0.000018,
+      "t"
+    ],
+    [
+      0.000030,
+      "t"
+    ],
+    [
+      0.000029,
+      "p"
+    ],
+    [
+      0.000033,
+      "."
+    ],
+    [
+      0.000024,
+      "j"
+    ],
+    [
+      0.000024,
+      "s"
+    ],
+    [
+      0.000030,
+      "o"
+    ],
+    [
+      0.000033,
+      "n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.055033,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000098,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl create -f kubernetes-jenkins/service-http.json\r\n"
+    ],
+    [
+      0.929989,
+      "jenkins\r\n"
+    ],
+    [
+      0.002113,
+      "bash-3.2$ c"
+    ],
+    [
+      0.000012,
+      "lus"
+    ],
+    [
+      0.000006,
+      "t"
+    ],
+    [
+      0.000039,
+      "er"
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      0.000011,
+      "k"
+    ],
+    [
+      0.000006,
+      "u"
+    ],
+    [
+      0.000081,
+      "b"
+    ],
+    [
+      0.000011,
+      "e"
+    ],
+    [
+      0.000025,
+      "c"
+    ],
+    [
+      0.000027,
+      "t"
+    ],
+    [
+      0.000010,
+      "l"
+    ],
+    [
+      0.000006,
+      "."
+    ],
+    [
+      0.000031,
+      "s"
+    ],
+    [
+      0.000021,
+      "h"
+    ],
+    [
+      0.000011,
+      " "
+    ],
+    [
+      0.000007,
+      "c"
+    ],
+    [
+      0.000038,
+      "r"
+    ],
+    [
+      0.000018,
+      "e"
+    ],
+    [
+      0.000027,
+      "a"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000026,
+      "e"
+    ],
+    [
+      0.000010,
+      " "
+    ],
+    [
+      0.000036,
+      "-"
+    ],
+    [
+      0.000041,
+      "f"
+    ],
+    [
+      0.000009,
+      " "
+    ],
+    [
+      0.000053,
+      "ku"
+    ],
+    [
+      0.000026,
+      "b"
+    ],
+    [
+      0.000027,
+      "e"
+    ],
+    [
+      0.000039,
+      "r"
+    ],
+    [
+      0.000009,
+      "n"
+    ],
+    [
+      0.000034,
+      "e"
+    ],
+    [
+      0.000009,
+      "t"
+    ],
+    [
+      0.000060,
+      "es"
+    ],
+    [
+      0.000035,
+      "-"
+    ],
+    [
+      0.000069,
+      "j"
+    ],
+    [
+      0.000010,
+      "e"
+    ],
+    [
+      0.000039,
+      "n"
+    ],
+    [
+      0.000035,
+      "k"
+    ],
+    [
+      0.000033,
+      "i"
+    ],
+    [
+      0.000029,
+      "n"
+    ],
+    [
+      0.000067,
+      "s"
+    ],
+    [
+      0.000031,
+      "/"
+    ],
+    [
+      0.000031,
+      "s"
+    ],
+    [
+      0.000033,
+      "e"
+    ],
+    [
+      0.000028,
+      "r"
+    ],
+    [
+      0.000030,
+      "v"
+    ],
+    [
+      0.000031,
+      "i"
+    ],
+    [
+      0.000039,
+      "c"
+    ],
+    [
+      0.000015,
+      "e"
+    ],
+    [
+      0.000046,
+      "-"
+    ],
+    [
+      0.000029,
+      "s"
+    ],
+    [
+      0.000034,
+      "l"
+    ],
+    [
+      0.000056,
+      "a"
+    ],
+    [
+      0.000008,
+      "v"
+    ],
+    [
+      0.000040,
+      "e"
+    ],
+    [
+      0.000032,
+      "."
+    ],
+    [
+      0.000039,
+      "j"
+    ],
+    [
+      0.000034,
+      "s"
+    ],
+    [
+      0.000042,
+      "o"
+    ],
+    [
+      0.000028,
+      "n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.059189,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000132,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl create -f kubernetes-jenkins/service-slave.json\r\n"
+    ],
+    [
+      0.900633,
+      "jenkins-slave\r\n"
+    ],
+    [
+      0.002263,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000011,
+      "l"
+    ],
+    [
+      0.000006,
+      "u"
+    ],
+    [
+      0.000022,
+      "s"
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000050,
+      "er/"
+    ],
+    [
+      0.000073,
+      "k"
+    ],
+    [
+      0.000010,
+      "u"
+    ],
+    [
+      0.000006,
+      "b"
+    ],
+    [
+      0.000032,
+      "e"
+    ],
+    [
+      0.000012,
+      "c"
+    ],
+    [
+      0.000021,
+      "t"
+    ],
+    [
+      0.000007,
+      "l"
+    ],
+    [
+      0.000025,
+      "."
+    ],
+    [
+      0.000025,
+      "s"
+    ],
+    [
+      0.000008,
+      "h"
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000023,
+      "g"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000026,
+      "t"
+    ],
+    [
+      0.000022,
+      " "
+    ],
+    [
+      0.000022,
+      "s"
+    ],
+    [
+      0.000023,
+      "e"
+    ],
+    [
+      0.000025,
+      "r"
+    ],
+    [
+      0.000033,
+      "v"
+    ],
+    [
+      0.000008,
+      "i"
+    ],
+    [
+      0.000034,
+      "c"
+    ],
+    [
+      0.000006,
+      "e"
+    ],
+    [
+      0.000025,
+      "s\r\n"
+    ],
+    [
+      0.057068,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000106,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get services\r\n"
+    ],
+    [
+      0.872890,
+      "NAME                    LABELS                                                          SELECTOR                     IP                  PORT\r\nelasticsearch-logging   kubernetes.io/cluster-service=true,name=elasticsearch-logging   name=elasticsearch-logging   10.0.29.237         9200\r\njenkins"
+    ],
+    [
+      0.000016,
+      "                 \u003cnone\u003e                                                          name=jenkins                 10.0.187.6          8888\r\njenkins-slave           \u003cnone\u003e                                                "
+    ],
+    [
+      0.000007,
+      "          name=jenkins                 10.0.83.153"
+    ],
+    [
+      0.000004,
+      "         50000"
+    ],
+    [
+      0.000004,
+      "\r\nkibana-logging"
+    ],
+    [
+      0.000003,
+      "        "
+    ],
+    [
+      0.000004,
+      "  kubernetes.io/cluster-service=true,name=kibana-logging        "
+    ],
+    [
+      0.000004,
+      "  name=kibana-logging        "
+    ],
+    [
+      0.000005,
+      "  10.0.107.233        "
+    ],
+    [
+      0.000003,
+      "5601\r\nkube-dns"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000004,
+      "k8s-app=kube-dns,kubernetes.io/cluster-service=true        "
+    ],
+    [
+      0.000004,
+      "     k8s-app=kube-dns"
+    ],
+    [
+      0.000004,
+      "             10.0.0.10"
+    ],
+    [
+      0.000004,
+      "           53"
+    ],
+    [
+      0.000004,
+      "\r\nkubernetes        "
+    ],
+    [
+      0.000004,
+      "      component=apiserver,provider=kubernetes"
+    ],
+    [
+      0.000025,
+      "                         "
+    ],
+    [
+      0.000006,
+      "\u003cnone\u003e                       10.0.0.2"
+    ],
+    [
+      0.000004,
+      "            "
+    ],
+    [
+      0.000004,
+      "443\r\n"
+    ],
+    [
+      0.000004,
+      "kubernetes-ro        "
+    ],
+    [
+      0.000004,
+      "   component=apiserver,provider=kubernetes"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000004,
+      "         "
+    ],
+    [
+      0.000004,
+      "\u003cnone\u003e        "
+    ],
+    [
+      0.000004,
+      "               "
+    ],
+    [
+      0.000004,
+      "10.0.0.1            "
+    ],
+    [
+      0.000004,
+      "80\r\n"
+    ],
+    [
+      0.000004,
+      "monitoring-grafana      "
+    ],
+    [
+      0.000004,
+      "kubernetes.io/cluster-service=true,name=grafana        "
+    ],
+    [
+      0.000003,
+      "         "
+    ],
+    [
+      0.000003,
+      "name=influxGrafana        "
+    ],
+    [
+      0.000004,
+      "   10.0.127.32"
+    ],
+    [
+      0.000004,
+      "         80"
+    ],
+    [
+      0.000004,
+      "\r\nmonitoring-heapster"
+    ],
+    [
+      0.000004,
+      "     kubernetes.io/cluster-service=true,name=heapster"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000004,
+      "name=heapster        "
+    ],
+    [
+      0.000003,
+      "        10.0.51.109"
+    ],
+    [
+      0.000003,
+      "         "
+    ],
+    [
+      0.000004,
+      "80\r\n"
+    ],
+    [
+      0.000004,
+      "monitoring-influxdb     "
+    ],
+    [
+      0.000003,
+      "kubernetes.io/cluster-service=true,name=influxdb        "
+    ],
+    [
+      0.000003,
+      "        name=influxGrafana"
+    ],
+    [
+      0.000004,
+      "           "
+    ],
+    [
+      0.000004,
+      "10.0.215.169        "
+    ],
+    [
+      0.000004,
+      "80\r\n"
+    ],
+    [
+      0.001578,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000007,
+      "l"
+    ],
+    [
+      0.000006,
+      "u"
+    ],
+    [
+      0.000004,
+      "s"
+    ],
+    [
+      0.000010,
+      "t"
+    ],
+    [
+      0.000067,
+      "er/kube"
+    ],
+    [
+      0.000012,
+      "c"
+    ],
+    [
+      0.000015,
+      "t"
+    ],
+    [
+      0.000006,
+      "l"
+    ],
+    [
+      0.000010,
+      "."
+    ],
+    [
+      0.000013,
+      "s"
+    ],
+    [
+      0.000010,
+      "h"
+    ],
+    [
+      0.000004,
+      " "
+    ],
+    [
+      0.000014,
+      "g"
+    ],
+    [
+      0.000021,
+      "e"
+    ],
+    [
+      0.000005,
+      "t"
+    ],
+    [
+      0.000016,
+      " "
+    ],
+    [
+      0.000004,
+      "p"
+    ],
+    [
+      0.000014,
+      "o"
+    ],
+    [
+      0.000012,
+      "d"
+    ],
+    [
+      0.000012,
+      "s"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.057261,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000123,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get pods\r\n"
+    ],
+    [
+      1.000000,
+      "POD                                          IP                  CONTAINER(S)            IMAGE(S)                            HOST                                                                 LABELS                                                                      STATUS              CREATED"
+    ],
+    [
+      0.000012,
+      "\r\nelasticsearch-logging-controller-fplln       10.244.0.3          elasticsearch-logging   kubernetes/elasticsearch:1.0        k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=elasticsearch-logging               Running             "
+    ],
+    [
+      0.000004,
+      "14 minutes\r\njenkins        "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "              "
+    ],
+    [
+      0.000004,
+      "10.244.1.4        "
+    ],
+    [
+      0.000003,
+      "  jenkins"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      " csanchez/jenkins-swarm:1.565.3.3"
+    ],
+    [
+      0.000004,
+      "    k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149"
+    ],
+    [
+      0.000006,
+      "   name=jenkins                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000003,
+      "        "
+    ],
+    [
+      0.000038,
+      "                        Pending             37 seconds\r\n"
+    ],
+    [
+      0.000006,
+      "kibana-logging-controller-ls6k1              10.244.0.7          kibana-logging"
+    ],
+    [
+      0.000004,
+      "          kubernetes/kibana:1.1        "
+    ],
+    [
+      0.000006,
+      "       k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79"
+    ],
+    [
+      0.000003,
+      "   kubernetes.io/cluster-service=true,name=kibana-logging                "
+    ],
+    [
+      0.000003,
+      "      Running"
+    ],
+    [
+      0.000004,
+      "             14 minutes"
+    ],
+    [
+      0.000003,
+      "\r\nkube-dns-gziey"
+    ],
+    [
+      0.000004,
+      "                        "
+    ],
+    [
+      0.000003,
+      "       10.244.0.4"
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000004,
+      "etcd        "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000003,
+      "quay.io/coreos/etcd:v2.0.3        "
+    ],
+    [
+      0.000003,
+      "  k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79"
+    ],
+    [
+      0.000004,
+      "   k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns        "
+    ],
+    [
+      0.000003,
+      "   Running        "
+    ],
+    [
+      0.000003,
+      "     14 minutes"
+    ],
+    [
+      0.000003,
+      "\r\n        "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000005,
+      "                    "
+    ],
+    [
+      0.000003,
+      "kube2sky                "
+    ],
+    [
+      0.000003,
+      "kubernetes/kube2sky:1.1"
+    ],
+    [
+      0.000004,
+      "             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "    \r\n"
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000003,
+      "skydns        "
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000003,
+      "kubernetes/skydns:2015-03-11-001    "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000004,
+      "             "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "    "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "    "
+    ],
+    [
+      0.000150,
+      "\r\nmonitoring-heapster-controller-0133o         10.244.0.6          heapster                kubernetes/heapster:v0.8            k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=heapster,uses=monitoring-influxdb   Running             14 minutes\r\nmonitoring-influx-grafana-controller-oh43e   10.244.0.5          influxdb                kubernetes/heapster_influxdb:v0.3   k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=influxGrafana                "
+    ],
+    [
+      0.000010,
+      "       Running             14 minutes\r\n                                                                 grafana                 kubernetes/heapster_grafana:v0.4                                                                                                                                                                         \r\n"
+    ],
+    [
+      0.001519,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "cluster/kubectl.sh get pods"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.060529,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000116,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get pods\r\n"
+    ],
+    [
+      1.000000,
+      "POD                                          IP                  CONTAINER(S)            IMAGE(S)                            HOST                        "
+    ],
+    [
+      0.000014,
+      "                                         LABELS                                                                      STATUS              CREATED\r\nelasticsearch-logging-controller-fplln       10.244.0.3          elasticsearch-logging   kubernetes/elasticsearch:1.0        k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   "
+    ],
+    [
+      0.000005,
+      "kubernetes.io/cluster-service=true,name=elasticsearch-logging               Running             "
+    ],
+    [
+      0.000004,
+      "15 minutes\r\njenkins        "
+    ],
+    [
+      0.000004,
+      "                        "
+    ],
+    [
+      0.000004,
+      "      10.244.1.4"
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000003,
+      "jenkins        "
+    ],
+    [
+      0.000004,
+      "         csanchez/jenkins-swarm:1.565.3.3"
+    ],
+    [
+      0.000003,
+      "    k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149   name=jenkins"
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "        Running"
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000004,
+      "About a minute\r\nkibana-logging-controller-ls6k1"
+    ],
+    [
+      0.000003,
+      "              10.244.0.7"
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000021,
+      "kibana-logging          "
+    ],
+    [
+      0.000005,
+      "kubernetes/kibana:1.1               k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   "
+    ],
+    [
+      0.000005,
+      "kubernetes.io/cluster-service=true,name=kibana-logging                "
+    ],
+    [
+      0.000004,
+      "      Running"
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "15 minutes\r\n"
+    ],
+    [
+      0.000003,
+      "kube-dns-gziey        "
+    ],
+    [
+      0.000004,
+      "                       "
+    ],
+    [
+      0.000003,
+      "10.244.0.4        "
+    ],
+    [
+      0.000003,
+      "  etcd"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "    quay.io/coreos/etcd:v2.0.3"
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000003,
+      "k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   "
+    ],
+    [
+      0.000003,
+      "k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns        "
+    ],
+    [
+      0.000003,
+      "   Running"
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "15 minutes\r\n"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "    kube2sky"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "kubernetes/kube2sky:1.1        "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000104,
+      "             "
+    ],
+    [
+      0.000011,
+      "                                                                                                \r\n                                                                 skydns                  kubernetes/skydns:2015-03-11-001                                                                                                                                                                         \r\nmonitoring-heapster-controller-0133o         10.244.0.6          heapster                kubernetes/heapster:v0.8            k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=heapster,uses=monitoring-influxdb   Running             15 minutes\r\nmonitoring-influx-grafana-controller-oh43e   10.244.0.5          influxdb                kubernetes/heapster_influxdb:v0.3"
+    ],
+    [
+      0.000005,
+      "   k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=influxGrafana                       "
+    ],
+    [
+      0.000003,
+      "Running        "
+    ],
+    [
+      0.000003,
+      "     15 minutes"
+    ],
+    [
+      0.000003,
+      "\r\n        "
+    ],
+    [
+      0.000097,
+      "                        "
+    ],
+    [
+      0.000010,
+      "                                 grafana                 kubernetes/heapster_grafana:v0.4                                                                                                                                                                         \r\n"
+    ],
+    [
+      0.001307,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "g"
+    ],
+    [
+      0.000011,
+      "c"
+    ],
+    [
+      0.000006,
+      "l"
+    ],
+    [
+      0.000032,
+      "ou"
+    ],
+    [
+      0.000008,
+      "d"
+    ],
+    [
+      0.000053,
+      " c"
+    ],
+    [
+      0.000017,
+      "om"
+    ],
+    [
+      0.000008,
+      "p"
+    ],
+    [
+      0.000030,
+      "u"
+    ],
+    [
+      0.000009,
+      "t"
+    ],
+    [
+      0.000021,
+      "e"
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000025,
+      "s"
+    ],
+    [
+      0.000029,
+      "s"
+    ],
+    [
+      0.000072,
+      "h k8"
+    ],
+    [
+      0.000006,
+      "s"
+    ],
+    [
+      0.000027,
+      "-"
+    ],
+    [
+      0.000024,
+      "j"
+    ],
+    [
+      0.000011,
+      "e"
+    ],
+    [
+      0.000049,
+      "n"
+    ],
+    [
+      0.000024,
+      "k"
+    ],
+    [
+      0.000006,
+      "i"
+    ],
+    [
+      0.000019,
+      "n"
+    ],
+    [
+      0.000008,
+      "s"
+    ],
+    [
+      0.000018,
+      "-"
+    ],
+    [
+      0.000018,
+      "m"
+    ],
+    [
+      0.000006,
+      "i"
+    ],
+    [
+      0.000019,
+      "n"
+    ],
+    [
+      0.000019,
+      "i"
+    ],
+    [
+      0.000007,
+      "o"
+    ],
+    [
+      0.000021,
+      "n"
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.000027,
+      "a"
+    ],
+    [
+      0.000008,
+      "x"
+    ],
+    [
+      0.000020,
+      "r"
+    ],
+    [
+      0.000016,
+      "l"
+    ],
+    [
+      0.723619,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "Warning: Permanently added '104.154.53.149' (RSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      1.000000,
+      "Linux k8s-jenkins-minion-axrl 3.16.0-0.bpo.4-amd64 #1 SMP Debian 3.16.7-ckt4-3~bpo70+1 (2015-02-12) x86_64"
+    ],
+    [
+      0.000037,
+      "\r\n\r\n=== GCE Kubernetes node setup complete ===\r\n\r\n"
+    ],
+    [
+      0.000165,
+      "Last login: Fri Mar 20 13:00:54 2015 from 90.175.97.209\r"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.005145,
+      "\u001b]0;csanchez@k8s-jenkins-minion-axrl: ~\u0007\u001b[01;32mcsanchez@k8s-jenkins-minion-axrl\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      0.878681,
+      "s"
+    ],
+    [
+      0.160165,
+      "u"
+    ],
+    [
+      0.087964,
+      "d"
+    ],
+    [
+      0.176242,
+      "o"
+    ],
+    [
+      0.118825,
+      " "
+    ],
+    [
+      0.216984,
+      "d"
+    ],
+    [
+      0.079369,
+      "o"
+    ],
+    [
+      0.144258,
+      "c"
+    ],
+    [
+      0.111993,
+      "k"
+    ],
+    [
+      0.103118,
+      "e"
+    ],
+    [
+      0.081482,
+      "r"
+    ],
+    [
+      0.088724,
+      " "
+    ],
+    [
+      0.135495,
+      "p"
+    ],
+    [
+      0.078225,
+      "s"
+    ],
+    [
+      0.177460,
+      "\r\n"
+    ],
+    [
+      0.024942,
+      "CONTAINER ID        IMAGE"
+    ],
+    [
+      0.000017,
+      "                                "
+    ],
+    [
+      0.000375,
+      "  "
+    ],
+    [
+      0.000011,
+      "COMMAND"
+    ],
+    [
+      0.133861,
+      "                CREATED             STATUS              PORTS                                              NAMES\r\nec092a5394fc        csanchez/jenkins-swarm:1.565.3.3       \"/usr/local/bin/jenk   2 minutes ago       Up 2 minutes"
+    ],
+    [
+      0.000322,
+      "                                                           k8s_jenkins.c53a3f51_jenkins_default_b5f9fd95-cf00-11e4-9e82-42010af02317_72e79d30                                           \r\ndf56cbe32661        kubernetes/pause:go                    \"/pause\"               3 minutes ago"
+    ],
+    [
+      0.023646,
+      "       Up 3 minutes        0.0.0.0:8080-\u003e8080/tcp, 0.0.0.0:50000-\u003e50000/tcp   k8s_POD.9db51103_jenkins_default_b5f9fd95-cf00-11e4-9e82-42010af02317_af8b8030                                               \r\n85e8b0750590        kubernetes/fluentd-elasticsearch:1.2   \"\\\"/bin/sh -c '/usr/   13 minutes ago      Up 13 minutes                       "
+    ],
+    [
+      0.000309,
+      "                                   k8s_fluentd-es.2b7c28f3_fluentd-to-elasticsearch-k8s-jenkins-minion-axrl_default_6472ca74bfa24e632eb6177c1543a65f_01452e65   \r\n6f52b6bf3ba2        kubernetes/pause:go                    \"/pause\"               14 minutes ago      Up 14 minutes                                       "
+    ],
+    [
+      0.001263,
+      "                   k8s_POD.3d41cbfd_fluentd-to-elasticsearch-k8s-jenkins-minion-axrl_default_6472ca74bfa24e632eb6177c1543a65f_7ea2f275          \r\n8205b5e1a663        google/cadvisor:0.8.0                  \"/usr/bin/cadvisor\"    15 minutes ago      Up 15 minutes                                                       "
+    ],
+    [
+      0.000669,
+      "   k8s_cadvisor.373c4ae3_cadvisor-agent-k8s-jenkins-minion-axrl_default_ec3d1078996072587d987b4a6f070f17_50d03bde               \r\n8d2287f012b0        kubernetes/pause:go                    \"/pause\"               15 minutes ago      Up 15 minutes       0.0.0.0:4194-\u003e8080/tcp                             "
+    ],
+    [
+      0.000038,
+      "k8s_POD.5426ef83_cadvisor-agent-k8s-jenkins-minion-axrl_default_ec3d1078996072587d987b4a6f070f17_f745af5d                    \r\n\u001b]0;csanchez@k8s-jenkins-minion-axrl: ~\u0007\u001b[01;32mcsanchez@k8s-jenkins-minion-axrl\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.129283,
+      "u"
+    ],
+    [
+      0.080817,
+      "d"
+    ],
+    [
+      0.110538,
+      "o"
+    ],
+    [
+      0.089930,
+      " "
+    ],
+    [
+      0.201158,
+      "d"
+    ],
+    [
+      0.093566,
+      "o"
+    ],
+    [
+      0.095222,
+      "c"
+    ],
+    [
+      0.086252,
+      "k"
+    ],
+    [
+      0.106495,
+      "e"
+    ],
+    [
+      0.079702,
+      "r"
+    ],
+    [
+      0.055502,
+      " "
+    ],
+    [
+      0.167933,
+      "l"
+    ],
+    [
+      0.160364,
+      "o"
+    ],
+    [
+      0.279636,
+      "g"
+    ],
+    [
+      0.280672,
+      "s"
+    ],
+    [
+      0.088452,
+      " "
+    ],
+    [
+      1.000000,
+      "ec092a5394fc"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.017961,
+      "Copying init scripts\r\nCopying plugins"
+    ],
+    [
+      0.000026,
+      "\r\nRunning from: /usr/share/jenkins/jenkins.war\r\nwebroot: EnvVars.masterEnvVars.get(\"JENKINS_HOME\")\r\nMar 20, 2015 12:59:03 PM winstone.Logger logInternal"
+    ],
+    [
+      0.140939,
+      "\r\nINFO: Beginning extraction from war file\r\nMar 20, 2015 12:59:09 PM org.eclipse.jetty.util.log.JavaUtilLog info\r\nINFO: jetty-8.y.z-SNAPSHOT\r\nMar 20, 2015 12:59:14 PM org.eclipse.jetty.util.log.JavaUtilLog info\r\nINFO: NO JSP Support for , did not find org.apache.jasper.servlet.JspServlet\r\nJenkins home directory: /var/jenkins_home found at: EnvVars.masterEnvVars.get(\"JENKINS_HOME\")\r\nMar 20, 2015 12:59:16 PM org.eclipse.jetty.util.log.JavaUtilLog info\r\nINFO: Started SelectChannelConnector@0.0.0.0:8080\r\nMar 20, 2015 12:59:16 PM winstone.Logger logInternal\r\nINFO: Winstone Servlet Engine v2.0 running: controlPort=disabled"
+    ],
+    [
+      0.000207,
+      "\r\nMar 20, 2015 12:59:17 PM jenkins.InitReactorRunner$1 onAttained\r\nINFO: Started initialization\r\nMar 20, 2015 12:59:41 PM jenkins.InitReactorRunner$1 onAttained\r\nINFO: Listed all plugins\r\nMar 20, 2015 12:59:41 PM jenkins.InitReactorRunner$1 onAttained\r\nINFO: Prepared all plugins\r\nMar 20, 2015 12:59:41 PM jenkins.InitReactorRunner$1 onAttained\r\nINFO: Started all plugins\r\nMar 20, 2015 12:59:47 PM jenkins.InitReactorRunner$1 onAttained\r\nINFO: Augmented all extensions\r\nMar 20, 2015 12:59:47 PM jenkins.InitReactorRunner$1 onAttained\r\n"
+    ],
+    [
+      0.017018,
+      "INFO: Loaded all jobs\r\nMar 20, 2015 12:59:52 PM org.jenkinsci.main.modules.sshd.SSHD start\r\nINFO: Started SSHD at port 43244\r\nMar 20, 2015 12:59:52 PM jenkins.util.groovy.GroovyHookScript execute\r\nINFO: Executing bundled script: file:/var/jenkins_home/war/WEB-INF/init.groovy.d/tcp-slave-angent-port.groovy\r\nMar 20, 2015 12:59:53 PM jenkins.util.groovy.GroovyHookScript execute\r\nINFO: Executing /var/jenkins_home/init.groovy.d/master-executors.groovy\r\n--\u003e disabling master executors\r\nMar 20, 2015 12:59:54 PM jenkins.InitReactorRunner$1 onAttained\r\nINFO: Completed initialization\r\nMar 20, 2015 12:59:54 PM hudson.TcpSlaveAgentListener \u003cinit\u003e"
+    ],
+    [
+      0.000392,
+      "\r\nINFO: JNLP slave agent listener started on TCP port 41353\r\nMar 20, 2015 12:59:54 PM hudson.WebAppMain$3 run\r\nINFO: Jenkins is fully up and running\r\nMar 20, 2015 12:59:54 PM jenkins.model.Jenkins \u003cinit\u003e\r\nINFO: Effective SlaveRestarter on master: null\r\n--\u003e setting agent port for jnlp\r\nMar 20, 2015 1:00:03 PM hudson.TcpSlaveAgentListener \u003cinit\u003e\r\nINFO: JNLP slave agent listener started on TCP port 50000\r\n\u001b]0;csanchez@k8s-jenkins-minion-axrl: ~\u0007\u001b[01;32mcsanchez@k8s-jenkins-minion-axrl\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.000000,
+      "e"
+    ],
+    [
+      0.088979,
+      "x"
+    ],
+    [
+      0.366181,
+      "i"
+    ],
+    [
+      0.081171,
+      "t"
+    ],
+    [
+      0.205000,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.041087,
+      "Connection to 104.154.53.149 closed.\r\r\n"
+    ],
+    [
+      0.054443,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000011,
+      "l"
+    ],
+    [
+      0.000007,
+      "u"
+    ],
+    [
+      0.000022,
+      "s"
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000040,
+      "e"
+    ],
+    [
+      0.000011,
+      "r"
+    ],
+    [
+      0.000055,
+      "/"
+    ],
+    [
+      0.000010,
+      "k"
+    ],
+    [
+      0.000004,
+      "u"
+    ],
+    [
+      0.000034,
+      "b"
+    ],
+    [
+      0.000005,
+      "e"
+    ],
+    [
+      0.000015,
+      "c"
+    ],
+    [
+      0.000005,
+      "t"
+    ],
+    [
+      0.000022,
+      "l"
+    ],
+    [
+      0.000018,
+      "."
+    ],
+    [
+      0.000019,
+      "s"
+    ],
+    [
+      0.000017,
+      "h"
+    ],
+    [
+      0.000018,
+      " "
+    ],
+    [
+      0.000020,
+      "d"
+    ],
+    [
+      0.000030,
+      "e"
+    ],
+    [
+      0.000005,
+      "l"
+    ],
+    [
+      0.000034,
+      "e"
+    ],
+    [
+      0.000009,
+      "t"
+    ],
+    [
+      0.000033,
+      "e"
+    ],
+    [
+      0.000005,
+      " "
+    ],
+    [
+      0.000038,
+      "s"
+    ],
+    [
+      0.000005,
+      "e"
+    ],
+    [
+      0.000025,
+      "r"
+    ],
+    [
+      0.000024,
+      "v"
+    ],
+    [
+      0.000031,
+      "i"
+    ],
+    [
+      0.000014,
+      "c"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000025,
+      "s"
+    ],
+    [
+      0.000023,
+      " "
+    ],
+    [
+      0.000025,
+      "j"
+    ],
+    [
+      0.000016,
+      "e"
+    ],
+    [
+      0.000018,
+      "n"
+    ],
+    [
+      0.000027,
+      "k"
+    ],
+    [
+      0.000024,
+      "i"
+    ],
+    [
+      0.000025,
+      "n"
+    ],
+    [
+      0.000024,
+      "s"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.056641,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.035894,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "gcloud compute forwarding-rules list "
+    ],
+    [
+      0.247954,
+      "jenkins"
+    ],
+    [
+      0.472211,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[4hdesc\u001b[4lribe\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.631839,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.330542,
+      "k"
+    ],
+    [
+      0.000015,
+      "8"
+    ],
+    [
+      0.000027,
+      "s"
+    ],
+    [
+      0.000053,
+      "-"
+    ],
+    [
+      0.000009,
+      "j"
+    ],
+    [
+      0.000032,
+      "e"
+    ],
+    [
+      0.000026,
+      "n"
+    ],
+    [
+      0.000035,
+      "k"
+    ],
+    [
+      0.000048,
+      "i"
+    ],
+    [
+      0.000052,
+      "n"
+    ],
+    [
+      0.000027,
+      "s"
+    ],
+    [
+      0.000031,
+      "-"
+    ],
+    [
+      0.000038,
+      "d"
+    ],
+    [
+      0.000028,
+      "e"
+    ],
+    [
+      0.000034,
+      "f"
+    ],
+    [
+      0.000036,
+      "a"
+    ],
+    [
+      0.000036,
+      "u"
+    ],
+    [
+      0.000038,
+      "l"
+    ],
+    [
+      0.000035,
+      "t"
+    ],
+    [
+      0.000017,
+      "-"
+    ],
+    [
+      0.000036,
+      "j"
+    ],
+    [
+      0.000033,
+      "e"
+    ],
+    [
+      0.000035,
+      "n"
+    ],
+    [
+      0.000031,
+      "k"
+    ],
+    [
+      0.000026,
+      "i"
+    ],
+    [
+      0.000037,
+      "n"
+    ],
+    [
+      0.000019,
+      "s"
+    ],
+    [
+      0.164380,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "For the following forwarding rules:\r\n - [k8s-jenkins-default-jenkins]\r\nchoose a region:\r\n [1] asia-east1\r\n [2] europe-west1\r\n [3] us-central1\r\n"
+    ],
+    [
+      0.000012,
+      "Please enter your numeric choice:  "
+    ],
+    [
+      1.000000,
+      "3"
+    ],
+    [
+      0.096106,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.285310,
+      "IPAddress: 130.211.131.92\r\n"
+    ],
+    [
+      0.000463,
+      "IPProtocol: TCP\r\n"
+    ],
+    [
+      0.000537,
+      "creationTimestamp: '2015-03-20T06:04:49.874-07:00'\r\n"
+    ],
+    [
+      0.000504,
+      "id: '16022450702792888693'\r\n"
+    ],
+    [
+      0.000505,
+      "kind: compute#forwardingRule\r\n"
+    ],
+    [
+      0.000533,
+      "name: k8s-jenkins-default-jenkins\r\n"
+    ],
+    [
+      0.000501,
+      "portRange: 8888-8888\r\n"
+    ],
+    [
+      0.000589,
+      "region: https://www.googleapis.com/compute/v1/projects/gce-my-project/regions/us-central1\r\n"
+    ],
+    [
+      0.000698,
+      "selfLink: https://www.googleapis.com/compute/v1/projects/gce-my-project/regions/us-central1/forwardingRules/k8s-jenkins-default-jenkins\r\n"
+    ],
+    [
+      0.000647,
+      "target: https://www.googleapis.com/compute/v1/projects/gce-my-project/regions/us-central1/targetPools/k8s-jenkins-default-jenkins\r\n"
+    ],
+    [
+      0.037624,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "g"
+    ],
+    [
+      0.000014,
+      "c"
+    ],
+    [
+      0.000023,
+      "l"
+    ],
+    [
+      0.000009,
+      "o"
+    ],
+    [
+      0.000008,
+      "u"
+    ],
+    [
+      0.000018,
+      "d"
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000060,
+      "c"
+    ],
+    [
+      0.000010,
+      "o"
+    ],
+    [
+      0.000007,
+      "m"
+    ],
+    [
+      0.000020,
+      "p"
+    ],
+    [
+      0.000008,
+      "u"
+    ],
+    [
+      0.000031,
+      "t"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000022,
+      " "
+    ],
+    [
+      0.000007,
+      "f"
+    ],
+    [
+      0.000027,
+      "i"
+    ],
+    [
+      0.000008,
+      "r"
+    ],
+    [
+      0.000028,
+      "e"
+    ],
+    [
+      0.000028,
+      "w"
+    ],
+    [
+      0.000009,
+      "a"
+    ],
+    [
+      0.000020,
+      "l"
+    ],
+    [
+      0.000006,
+      "l"
+    ],
+    [
+      0.000016,
+      "-"
+    ],
+    [
+      0.000027,
+      "r"
+    ],
+    [
+      0.000007,
+      "u"
+    ],
+    [
+      0.000006,
+      "l"
+    ],
+    [
+      0.000019,
+      "e"
+    ],
+    [
+      0.000008,
+      "s"
+    ],
+    [
+      0.000019,
+      " "
+    ],
+    [
+      0.000022,
+      "c"
+    ],
+    [
+      0.000006,
+      "r"
+    ],
+    [
+      0.000017,
+      "e"
+    ],
+    [
+      0.000008,
+      "a"
+    ],
+    [
+      0.000019,
+      "t"
+    ],
+    [
+      0.000019,
+      "e"
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000022,
+      "j"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000023,
+      "n"
+    ],
+    [
+      0.000018,
+      "k"
+    ],
+    [
+      0.000020,
+      "i"
+    ],
+    [
+      0.000020,
+      "n"
+    ],
+    [
+      0.000006,
+      "s"
+    ],
+    [
+      0.000025,
+      "-"
+    ],
+    [
+      0.000022,
+      "n"
+    ],
+    [
+      0.000008,
+      "o"
+    ],
+    [
+      0.000020,
+      "d"
+    ],
+    [
+      0.000018,
+      "e"
+    ],
+    [
+      0.000020,
+      "-"
+    ],
+    [
+      0.000016,
+      "m"
+    ],
+    [
+      0.000031,
+      "a"
+    ],
+    [
+      0.000018,
+      "s"
+    ],
+    [
+      0.000020,
+      "t"
+    ],
+    [
+      0.000019,
+      "e"
+    ],
+    [
+      0.000017,
+      "r"
+    ],
+    [
+      0.000028,
+      " "
+    ],
+    [
+      0.000021,
+      "-"
+    ],
+    [
+      0.000027,
+      "-"
+    ],
+    [
+      0.000023,
+      "a"
+    ],
+    [
+      0.000018,
+      "l"
+    ],
+    [
+      0.000025,
+      "l"
+    ],
+    [
+      0.000024,
+      "o"
+    ],
+    [
+      0.000020,
+      "w"
+    ],
+    [
+      0.000026,
+      "="
+    ],
+    [
+      0.000024,
+      "t"
+    ],
+    [
+      0.000019,
+      "c"
+    ],
+    [
+      0.000025,
+      "p"
+    ],
+    [
+      0.000025,
+      ":"
+    ],
+    [
+      0.000020,
+      "8"
+    ],
+    [
+      0.000024,
+      "8"
+    ],
+    [
+      0.000026,
+      "8"
+    ],
+    [
+      0.000019,
+      "8"
+    ],
+    [
+      0.000026,
+      " "
+    ],
+    [
+      0.000026,
+      "-"
+    ],
+    [
+      0.000020,
+      "-"
+    ],
+    [
+      0.000026,
+      "t"
+    ],
+    [
+      0.000027,
+      "a"
+    ],
+    [
+      0.000027,
+      "r"
+    ],
+    [
+      0.000018,
+      "g"
+    ],
+    [
+      0.000032,
+      "e"
+    ],
+    [
+      0.000027,
+      "t"
+    ],
+    [
+      0.000021,
+      "-"
+    ],
+    [
+      0.000024,
+      "t"
+    ],
+    [
+      0.000032,
+      "a"
+    ],
+    [
+      0.000028,
+      "g"
+    ],
+    [
+      0.000026,
+      "s"
+    ],
+    [
+      0.000027,
+      " "
+    ],
+    [
+      0.000024,
+      "k"
+    ],
+    [
+      0.000037,
+      "8"
+    ],
+    [
+      0.000026,
+      "s"
+    ],
+    [
+      0.000023,
+      "-"
+    ],
+    [
+      0.000029,
+      "j"
+    ],
+    [
+      0.000027,
+      "e"
+    ],
+    [
+      0.000028,
+      "n"
+    ],
+    [
+      0.000029,
+      "k"
+    ],
+    [
+      0.000029,
+      "i"
+    ],
+    [
+      0.000033,
+      "n"
+    ],
+    [
+      0.000028,
+      "s"
+    ],
+    [
+      0.000032,
+      "-"
+    ],
+    [
+      0.000032,
+      "m"
+    ],
+    [
+      0.000029,
+      "i"
+    ],
+    [
+      0.000032,
+      "n"
+    ],
+    [
+      0.000029,
+      "i"
+    ],
+    [
+      0.000032,
+      "o"
+    ],
+    [
+      0.000032,
+      "n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/global/firewalls/jenkins-node-master].\r\n"
+    ],
+    [
+      0.293085,
+      "NAME                NETWORK SRC_RANGES RULES    SRC_TAGS TARGET_TAGS\r\n"
+    ],
+    [
+      0.000191,
+      "jenkins-node-master default 0.0.0.0/0  tcp:8888          k8s-jenkins-minion\r\n"
+    ],
+    [
+      0.033048,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.159193,
+      "u"
+    ],
+    [
+      0.112190,
+      "r"
+    ],
+    [
+      0.127895,
+      "l"
+    ],
+    [
+      0.136096,
+      " "
+    ],
+    [
+      1.000000,
+      "h"
+    ],
+    [
+      0.000013,
+      "tt"
+    ],
+    [
+      0.000021,
+      "p"
+    ],
+    [
+      0.000028,
+      ":"
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      0.000054,
+      "/"
+    ],
+    [
+      0.000010,
+      "1"
+    ],
+    [
+      0.000024,
+      "3"
+    ],
+    [
+      0.000008,
+      "0"
+    ],
+    [
+      0.000054,
+      "."
+    ],
+    [
+      0.000020,
+      "2"
+    ],
+    [
+      0.000028,
+      "1"
+    ],
+    [
+      0.000018,
+      "1"
+    ],
+    [
+      0.000027,
+      "."
+    ],
+    [
+      0.000025,
+      "1"
+    ],
+    [
+      0.000029,
+      "3"
+    ],
+    [
+      0.000008,
+      "1"
+    ],
+    [
+      0.000029,
+      "."
+    ],
+    [
+      0.000027,
+      "9"
+    ],
+    [
+      0.000022,
+      "2"
+    ],
+    [
+      0.000023,
+      ":"
+    ],
+    [
+      0.000031,
+      "8"
+    ],
+    [
+      0.000031,
+      "8"
+    ],
+    [
+      0.000009,
+      "8"
+    ],
+    [
+      0.000025,
+      "8"
+    ],
+    [
+      0.000034,
+      "/"
+    ],
+    [
+      0.000019,
+      "o"
+    ],
+    [
+      0.000024,
+      "v"
+    ],
+    [
+      0.000030,
+      "e"
+    ],
+    [
+      0.000008,
+      "r"
+    ],
+    [
+      0.000028,
+      "a"
+    ],
+    [
+      0.000025,
+      "l"
+    ],
+    [
+      0.000028,
+      "l"
+    ],
+    [
+      0.000025,
+      "L"
+    ],
+    [
+      0.000039,
+      "o"
+    ],
+    [
+      0.000023,
+      "a"
+    ],
+    [
+      0.000023,
+      "d"
+    ],
+    [
+      0.000023,
+      "/"
+    ],
+    [
+      0.000019,
+      "a"
+    ],
+    [
+      0.000029,
+      "p"
+    ],
+    [
+      0.000024,
+      "i"
+    ],
+    [
+      0.000025,
+      "/"
+    ],
+    [
+      0.000036,
+      "j"
+    ],
+    [
+      0.000030,
+      "s"
+    ],
+    [
+      0.000018,
+      "o"
+    ],
+    [
+      0.000026,
+      "n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.331615,
+      "{\"busyExecutors\":{},\"queueLength\":{},\u001b[01;32m\"totalExecutors\":{}\u001b[00m,\"totalQueueLength\":{}}"
+    ],
+    [
+      0.001227,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000017,
+      "lu"
+    ],
+    [
+      0.000007,
+      "s"
+    ],
+    [
+      0.000019,
+      "t"
+    ],
+    [
+      0.000009,
+      "e"
+    ],
+    [
+      0.000041,
+      "r/k"
+    ],
+    [
+      0.000009,
+      "u"
+    ],
+    [
+      0.000028,
+      "b"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000006,
+      "c"
+    ],
+    [
+      0.000026,
+      "t"
+    ],
+    [
+      0.000008,
+      "l"
+    ],
+    [
+      0.000027,
+      "."
+    ],
+    [
+      0.000023,
+      "s"
+    ],
+    [
+      0.000016,
+      "h"
+    ],
+    [
+      0.000038,
+      " "
+    ],
+    [
+      0.000010,
+      "c"
+    ],
+    [
+      0.000025,
+      "r"
+    ],
+    [
+      0.000022,
+      "e"
+    ],
+    [
+      0.000024,
+      "a"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000023,
+      "e"
+    ],
+    [
+      0.000028,
+      " "
+    ],
+    [
+      0.000033,
+      "-"
+    ],
+    [
+      0.000009,
+      "f"
+    ],
+    [
+      0.000024,
+      " "
+    ],
+    [
+      0.000025,
+      "k"
+    ],
+    [
+      0.000021,
+      "u"
+    ],
+    [
+      0.000029,
+      "b"
+    ],
+    [
+      0.000026,
+      "e"
+    ],
+    [
+      0.000016,
+      "r"
+    ],
+    [
+      0.000022,
+      "n"
+    ],
+    [
+      0.000007,
+      "e"
+    ],
+    [
+      0.000023,
+      "t"
+    ],
+    [
+      0.000017,
+      "e"
+    ],
+    [
+      0.000006,
+      "s"
+    ],
+    [
+      0.000022,
+      "-"
+    ],
+    [
+      0.000024,
+      "j"
+    ],
+    [
+      0.000007,
+      "e"
+    ],
+    [
+      0.000025,
+      "n"
+    ],
+    [
+      0.000009,
+      "k"
+    ],
+    [
+      0.000022,
+      "i"
+    ],
+    [
+      0.000019,
+      "n"
+    ],
+    [
+      0.000020,
+      "s"
+    ],
+    [
+      0.000015,
+      "/"
+    ],
+    [
+      0.000028,
+      "r"
+    ],
+    [
+      0.000017,
+      "e"
+    ],
+    [
+      0.000019,
+      "p"
+    ],
+    [
+      0.000079,
+      "lica"
+    ],
+    [
+      0.000017,
+      "t"
+    ],
+    [
+      0.000018,
+      "i"
+    ],
+    [
+      0.000020,
+      "o"
+    ],
+    [
+      0.000019,
+      "n"
+    ],
+    [
+      0.000022,
+      "."
+    ],
+    [
+      0.000020,
+      "j"
+    ],
+    [
+      0.000023,
+      "s"
+    ],
+    [
+      0.000026,
+      "o"
+    ],
+    [
+      0.000025,
+      "n\r\n"
+    ],
+    [
+      0.055984,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000077,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl create -f kubernetes-jenkins/replication.json\r\n"
+    ],
+    [
+      0.868704,
+      "jenkins-slave\r\n"
+    ],
+    [
+      0.001913,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000011,
+      "lu"
+    ],
+    [
+      0.000019,
+      "s"
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000041,
+      "e"
+    ],
+    [
+      0.000010,
+      "r/"
+    ],
+    [
+      0.000021,
+      "k"
+    ],
+    [
+      0.000006,
+      "u"
+    ],
+    [
+      0.000045,
+      "be"
+    ],
+    [
+      0.000007,
+      "c"
+    ],
+    [
+      0.000027,
+      "t"
+    ],
+    [
+      0.000007,
+      "l"
+    ],
+    [
+      0.000028,
+      "."
+    ],
+    [
+      0.000009,
+      "s"
+    ],
+    [
+      0.000026,
+      "h"
+    ],
+    [
+      0.000024,
+      " "
+    ],
+    [
+      0.000018,
+      "g"
+    ],
+    [
+      0.000039,
+      "e"
+    ],
+    [
+      0.000063,
+      "t p"
+    ],
+    [
+      0.000009,
+      "o"
+    ],
+    [
+      0.000036,
+      "d"
+    ],
+    [
+      0.000008,
+      "s"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.059530,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000160,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get pods\r\n"
+    ],
+    [
+      1.000000,
+      "POD                                          IP                  CONTAINER(S)            IMAGE(S)                            HOST                        "
+    ],
+    [
+      0.000014,
+      "                                         LABELS                                                                      STATUS              CREATED\r\nelasticsearch-logging-controller-fplln       10.244.0.3          elasticsearch-logging   kubernetes/elasticsearch:1.0        k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79"
+    ],
+    [
+      0.000005,
+      "   kubernetes.io/cluster-service=true,name=elasticsearch-logging               Running             "
+    ],
+    [
+      0.000005,
+      "27 minutes\r\njenkins"
+    ],
+    [
+      0.000005,
+      "                                "
+    ],
+    [
+      0.000004,
+      "      10.244.1.4        "
+    ],
+    [
+      0.000003,
+      "  jenkins        "
+    ],
+    [
+      0.000003,
+      "         "
+    ],
+    [
+      0.000004,
+      "csanchez/jenkins-swarm:1.565.3.3    k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149"
+    ],
+    [
+      0.000004,
+      "   name=jenkins        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000020,
+      "        Running        "
+    ],
+    [
+      0.000005,
+      "     14 minutes\r\njenkins-slave-h2gdn        "
+    ],
+    [
+      0.000004,
+      "                  "
+    ],
+    [
+      0.000003,
+      "10.244.1.5          "
+    ],
+    [
+      0.000003,
+      "jenkins-slave        "
+    ],
+    [
+      0.000003,
+      "   csanchez/jenkins-swarm-slave:1.21"
+    ],
+    [
+      0.000003,
+      "   k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149"
+    ],
+    [
+      0.000004,
+      "   name=jenkins-slave"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "  Pending"
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "5 seconds\r\n"
+    ],
+    [
+      0.000003,
+      "kibana-logging-controller-ls6k1        "
+    ],
+    [
+      0.000003,
+      "      10.244.0.7"
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000003,
+      "kibana-logging        "
+    ],
+    [
+      0.000003,
+      "  kubernetes/kibana:1.1"
+    ],
+    [
+      0.000003,
+      "               "
+    ],
+    [
+      0.000003,
+      "k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   "
+    ],
+    [
+      0.000003,
+      "kubernetes.io/cluster-service=true,name=kibana-logging        "
+    ],
+    [
+      0.000003,
+      "              "
+    ],
+    [
+      0.000003,
+      "Running        "
+    ],
+    [
+      0.000003,
+      "     27 minutes"
+    ],
+    [
+      0.000003,
+      "\r\nkube-dns-gziey"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "               "
+    ],
+    [
+      0.000003,
+      "10.244.0.4        "
+    ],
+    [
+      0.000003,
+      "  etcd"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "    quay.io/coreos/etcd:v2.0.3"
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000057,
+      "k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   "
+    ],
+    [
+      0.000011,
+      "k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns           Running             27 minutes\r\n                                                                 kube2sky                kubernetes/kube2sky:1.1                                                                                                                                                                                  \r\n        "
+    ],
+    [
+      0.000015,
+      "                                     "
+    ],
+    [
+      0.000003,
+      "                    "
+    ],
+    [
+      0.000003,
+      "skydns        "
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000003,
+      "kubernetes/skydns:2015-03-11-001    "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000003,
+      "\r\nmonitoring-heapster-controller-0133o"
+    ],
+    [
+      0.000003,
+      "         "
+    ],
+    [
+      0.000003,
+      "10.244.0.6        "
+    ],
+    [
+      0.000003,
+      "  heapster"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "kubernetes/heapster:v0.8        "
+    ],
+    [
+      0.000003,
+      "    k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79"
+    ],
+    [
+      0.000003,
+      "   kubernetes.io/cluster-service=true,name=heapster,uses=monitoring-influxdb"
+    ],
+    [
+      0.000003,
+      "   Running"
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000048,
+      "27 minutes\r\n"
+    ],
+    [
+      0.000009,
+      "monitoring-influx-grafana-controller-oh43e   10.244.0.5          influxdb                kubernetes/heapster_influxdb:v0.3   k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=influxGrafana                       Running             27 minutes\r\n                                                                 grafana                 kubernetes/heapster_grafana:v0.4                    "
+    ],
+    [
+      0.000007,
+      "                                                             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.001329,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000012,
+      "lu"
+    ],
+    [
+      0.000007,
+      "s"
+    ],
+    [
+      0.000005,
+      "t"
+    ],
+    [
+      0.000018,
+      "er"
+    ],
+    [
+      0.000022,
+      "/"
+    ],
+    [
+      0.000014,
+      "k"
+    ],
+    [
+      0.000007,
+      "u"
+    ],
+    [
+      0.000027,
+      "b"
+    ],
+    [
+      0.000008,
+      "e"
+    ],
+    [
+      0.000006,
+      "c"
+    ],
+    [
+      0.000023,
+      "t"
+    ],
+    [
+      0.000028,
+      "l"
+    ],
+    [
+      0.000008,
+      "."
+    ],
+    [
+      0.000014,
+      "s"
+    ],
+    [
+      0.000017,
+      "h"
+    ],
+    [
+      0.000018,
+      " "
+    ],
+    [
+      0.000015,
+      "g"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000018,
+      "t"
+    ],
+    [
+      0.000029,
+      " "
+    ],
+    [
+      0.000005,
+      "p"
+    ],
+    [
+      0.000024,
+      "o"
+    ],
+    [
+      0.000017,
+      "d"
+    ],
+    [
+      0.000015,
+      "s"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.056499,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000090,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get pods\r\n"
+    ],
+    [
+      1.000000,
+      "POD                                          IP                  CONTAINER(S)            IMAGE(S)                            HOST                        "
+    ],
+    [
+      0.000013,
+      "                                         LABELS                                                                      STATUS              CREATED\r\nelasticsearch-logging-controller-fplln       10.244.0.3          elasticsearch-logging   kubernetes/elasticsearch:1.0        k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=elasticsearch-logging"
+    ],
+    [
+      0.000004,
+      "               Running             "
+    ],
+    [
+      0.000004,
+      "27 minutes\r\njenkins"
+    ],
+    [
+      0.000004,
+      "                        "
+    ],
+    [
+      0.000004,
+      "              10.244.1.4"
+    ],
+    [
+      0.000004,
+      "          jenkins        "
+    ],
+    [
+      0.000003,
+      "         csanchez/jenkins-swarm:1.565.3.3"
+    ],
+    [
+      0.000003,
+      "    k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149"
+    ],
+    [
+      0.000004,
+      "   name=jenkins"
+    ],
+    [
+      0.000002,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000002,
+      "                "
+    ],
+    [
+      0.000003,
+      "        Running"
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000007,
+      "14 minutes\r\njenkins-slave-h2gdn                "
+    ],
+    [
+      0.000013,
+      "          10.244.1.5"
+    ],
+    [
+      0.000010,
+      "          jenkins-slave           csanchez/jenkins-swarm-slave:1.21   k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149   name=jenkins-slave        "
+    ],
+    [
+      0.000021,
+      "                                                  Running             37 seconds\r\nkibana-logging-controller-ls6k1              10.244.0.7          kibana-logging        "
+    ],
+    [
+      0.000004,
+      "  kubernetes/kibana:1.1               k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79"
+    ],
+    [
+      0.000003,
+      "   kubernetes.io/cluster-service=true,name=kibana-logging"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "      Running"
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "27 minutes\r\nkube-dns-gziey"
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "       10.244.0.4"
+    ],
+    [
+      0.000003,
+      "          etcd"
+    ],
+    [
+      0.000004,
+      "                    "
+    ],
+    [
+      0.000003,
+      "quay.io/coreos/etcd:v2.0.3        "
+    ],
+    [
+      0.000003,
+      "  k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79"
+    ],
+    [
+      0.000004,
+      "   k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns"
+    ],
+    [
+      0.000003,
+      "           Running"
+    ],
+    [
+      0.000003,
+      "             27 minutes"
+    ],
+    [
+      0.000130,
+      "\r\n                "
+    ],
+    [
+      0.000143,
+      "                                                 kube2sky                kubernetes/kube2sky:1.1                                                                                                                                                                                  \r\n                                                                 skydns                  kubernetes/skydns:2015-03-11-001                                                                                                                                                                         \r\nmonitoring-heapster-controller-0133o         10.244.0.6          heapster                kubernetes/heapster:v0.8            k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=heapster,uses=monitoring-influxdb   Running             27 minutes\r\nmonitoring-influx-grafana-controller-oh43e   10.244.0.5          influxdb                kubernetes/heapster_influxdb:v0.3   k8s-jenkins-minion-5025.c.hig"
+    ],
+    [
+      0.000010,
+      "h-cistern-340.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=influxGrafana                       Running             27 minutes\r\n                                                                 grafana                 kubernetes/heapster_grafana:v0.4                                                                                                                                                                         \r\n"
+    ],
+    [
+      0.001269,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "h"
+    ],
+    [
+      0.000012,
+      "t"
+    ],
+    [
+      0.000007,
+      "t"
+    ],
+    [
+      0.000019,
+      "p"
+    ],
+    [
+      0.000007,
+      ":"
+    ],
+    [
+      0.000050,
+      "/"
+    ],
+    [
+      0.000009,
+      "/1"
+    ],
+    [
+      0.000007,
+      "3"
+    ],
+    [
+      0.000021,
+      "0"
+    ],
+    [
+      0.000036,
+      ".2"
+    ],
+    [
+      0.000008,
+      "1"
+    ],
+    [
+      0.000029,
+      "1"
+    ],
+    [
+      0.000008,
+      "."
+    ],
+    [
+      0.000019,
+      "1"
+    ],
+    [
+      0.000007,
+      "3"
+    ],
+    [
+      0.000007,
+      "1"
+    ],
+    [
+      0.000016,
+      "."
+    ],
+    [
+      0.000007,
+      "9"
+    ],
+    [
+      0.000018,
+      "2"
+    ],
+    [
+      0.000007,
+      ":"
+    ],
+    [
+      0.000025,
+      "8"
+    ],
+    [
+      0.000007,
+      "8"
+    ],
+    [
+      0.000005,
+      "8"
+    ],
+    [
+      0.000025,
+      "8"
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      0.000025,
+      "c"
+    ],
+    [
+      0.000008,
+      "o"
+    ],
+    [
+      0.000016,
+      "m"
+    ],
+    [
+      0.000008,
+      "p"
+    ],
+    [
+      0.000021,
+      "u"
+    ],
+    [
+      0.000019,
+      "t"
+    ],
+    [
+      0.000007,
+      "e"
+    ],
+    [
+      0.000017,
+      "r"
+    ],
+    [
+      0.000018,
+      "/"
+    ],
+    [
+      0.000006,
+      "a"
+    ],
+    [
+      0.000027,
+      "p"
+    ],
+    [
+      0.000007,
+      "i"
+    ],
+    [
+      0.000022,
+      "/"
+    ],
+    [
+      0.000016,
+      "j"
+    ],
+    [
+      0.000023,
+      "s"
+    ],
+    [
+      0.000008,
+      "o"
+    ],
+    [
+      0.000018,
+      "n"
+    ],
+    [
+      1.000000,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.376765,
+      "chttp://130.211.131.92:8888/computer/api/json\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.127812,
+      "uhttp://130.211.131.92:8888/computer/api/json\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.264139,
+      "rhttp://130.211.131.92:8888/computer/api/json\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.119950,
+      "lhttp://130.211.131.92:8888/computer/api/json\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.096018,
+      " http://130.211.131.92:8888/computer/api/json\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.535974,
+      "\r\n"
+    ],
+    [
+      0.327984,
+      "{\"busyExecutors\":0,\"computer\":[{\"actions\":[],\"displayName\":\"master\",\"executors\":[],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":false,\"launchSupported\":true,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":79925248,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":0},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7311716352},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/var/jenkins_home\",\"size\":7311716352},\"hudson.node_monitors.ClockMonitor\":{\"diff\":0}},\"numExecutors\":0,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-h2gdn\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monito"
+    ],
+    [
+      0.000128,
+      "rData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":76836864,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":1296},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7308951552},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7308972032},\"hudson.node_monitors.ClockMonitor\":{\"diff\":-638}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false}],\"displayName\":\"nodes\",\u001b[01;32m\"totalExecutors\":1\u001b[00m}"
+    ],
+    [
+      0.001257,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000213,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000011,
+      "l"
+    ],
+    [
+      0.000006,
+      "u"
+    ],
+    [
+      0.000024,
+      "s"
+    ],
+    [
+      0.000008,
+      "t"
+    ],
+    [
+      0.000019,
+      "e"
+    ],
+    [
+      0.000037,
+      "r"
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      0.000006,
+      "k"
+    ],
+    [
+      0.000033,
+      "ub"
+    ],
+    [
+      0.000028,
+      "e"
+    ],
+    [
+      0.000009,
+      "c"
+    ],
+    [
+      0.000104,
+      "tl.sh "
+    ],
+    [
+      0.000006,
+      "r"
+    ],
+    [
+      0.000025,
+      "e"
+    ],
+    [
+      0.000024,
+      "s"
+    ],
+    [
+      0.000014,
+      "i"
+    ],
+    [
+      0.000023,
+      "z"
+    ],
+    [
+      0.000025,
+      "e"
+    ],
+    [
+      0.000007,
+      " "
+    ],
+    [
+      0.000027,
+      "r"
+    ],
+    [
+      0.000023,
+      "e"
+    ],
+    [
+      0.000040,
+      "p"
+    ],
+    [
+      0.000010,
+      "l"
+    ],
+    [
+      0.000019,
+      "i"
+    ],
+    [
+      0.000021,
+      "c"
+    ],
+    [
+      0.000019,
+      "a"
+    ],
+    [
+      0.000025,
+      "t"
+    ],
+    [
+      0.000020,
+      "i"
+    ],
+    [
+      0.000027,
+      "o"
+    ],
+    [
+      0.000018,
+      "n"
+    ],
+    [
+      0.000027,
+      "c"
+    ],
+    [
+      0.000024,
+      "o"
+    ],
+    [
+      0.000025,
+      "n"
+    ],
+    [
+      0.000023,
+      "t"
+    ],
+    [
+      0.000024,
+      "r"
+    ],
+    [
+      0.000023,
+      "o"
+    ],
+    [
+      0.000025,
+      "l"
+    ],
+    [
+      0.000025,
+      "l"
+    ],
+    [
+      0.000036,
+      "e"
+    ],
+    [
+      0.000029,
+      "r"
+    ],
+    [
+      0.000017,
+      "s"
+    ],
+    [
+      0.000025,
+      " "
+    ],
+    [
+      0.000043,
+      "-"
+    ],
+    [
+      0.000009,
+      "-"
+    ],
+    [
+      0.000028,
+      "r"
+    ],
+    [
+      0.000029,
+      "e"
+    ],
+    [
+      0.000023,
+      "p"
+    ],
+    [
+      0.000023,
+      "l"
+    ],
+    [
+      0.000023,
+      "i"
+    ],
+    [
+      0.000027,
+      "c"
+    ],
+    [
+      0.000033,
+      "a"
+    ],
+    [
+      0.000022,
+      "s"
+    ],
+    [
+      0.000045,
+      "="
+    ],
+    [
+      0.000029,
+      "2"
+    ],
+    [
+      0.000019,
+      " "
+    ],
+    [
+      0.000030,
+      "j"
+    ],
+    [
+      0.000043,
+      "e"
+    ],
+    [
+      0.000031,
+      "n"
+    ],
+    [
+      0.000019,
+      "k"
+    ],
+    [
+      0.000045,
+      "i"
+    ],
+    [
+      0.000019,
+      "n"
+    ],
+    [
+      0.000031,
+      "s"
+    ],
+    [
+      0.000033,
+      "-"
+    ],
+    [
+      0.000025,
+      "s"
+    ],
+    [
+      0.000030,
+      "l"
+    ],
+    [
+      0.000027,
+      "a"
+    ],
+    [
+      0.000025,
+      "v"
+    ],
+    [
+      0.000024,
+      "e"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.057235,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000120,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl resize replicationcontrollers --replicas=2 jenkins-slave\r\n"
+    ],
+    [
+      1.000000,
+      "resized\r\n"
+    ],
+    [
+      0.001857,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "cluster/kubectl.sh resize replicationcontrollers --replicas=2 jenkins-slave"
+    ],
+    [
+      0.159730,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[26Purl http://130.211.131.92:8888/computer/api/json"
+    ],
+    [
+      0.656079,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[22Pluster/kubectl.sh get pods"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.063242,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000108,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get pods\r\n"
+    ],
+    [
+      1.000000,
+      "POD                                          IP                  CONTAINER(S)            IMAGE(S)                            HOST                                "
+    ],
+    [
+      0.000013,
+      "                                 LABELS                                                                      STATUS              CREATED\r\nelasticsearch-logging-controller-fplln       10.244.0.3          elasticsearch-logging   kubernetes/elasticsearch:1.0        "
+    ],
+    [
+      0.000006,
+      "k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=elasticsearch-logging               Running"
+    ],
+    [
+      0.000004,
+      "             30 minutes\r\n"
+    ],
+    [
+      0.000004,
+      "jenkins                "
+    ],
+    [
+      0.000004,
+      "                      "
+    ],
+    [
+      0.000003,
+      "10.244.1.4        "
+    ],
+    [
+      0.000003,
+      "  jenkins        "
+    ],
+    [
+      0.000004,
+      "         "
+    ],
+    [
+      0.000004,
+      "csanchez/jenkins-swarm:1.565.3.3    k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149"
+    ],
+    [
+      0.000004,
+      "   name=jenkins                "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "        Running"
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "17 minutes\r\njenkins-slave-h2gdn"
+    ],
+    [
+      0.000026,
+      "                          "
+    ],
+    [
+      0.000006,
+      "10.244.1.5          jenkins-slave           csanchez/jenkins-swarm-slave:1.21"
+    ],
+    [
+      0.000003,
+      "   k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149   name=jenkins-slave"
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000003,
+      "Running        "
+    ],
+    [
+      0.000003,
+      "     3 minutes"
+    ],
+    [
+      0.000004,
+      "\r\njenkins-slave-yxxvi"
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "  10.244.1.6        "
+    ],
+    [
+      0.000003,
+      "  jenkins-slave        "
+    ],
+    [
+      0.000004,
+      "   csanchez/jenkins-swarm-slave:1.21   "
+    ],
+    [
+      0.000005,
+      "k8s-jenkins-minion-axrl.c.gce-my-project.internal/104.154.53.149   name=jenkins-slave"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "  Running        "
+    ],
+    [
+      0.000003,
+      "     7 seconds"
+    ],
+    [
+      0.000003,
+      "\r\nkibana-logging-controller-ls6k1        "
+    ],
+    [
+      0.000004,
+      "      10.244.0.7        "
+    ],
+    [
+      0.000003,
+      "  kibana-logging"
+    ],
+    [
+      0.000004,
+      "          "
+    ],
+    [
+      0.000004,
+      "kubernetes/kibana:1.1               "
+    ],
+    [
+      0.000078,
+      "k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=kibana-logging"
+    ],
+    [
+      0.000018,
+      "                      Running             30 minutes\r\nkube-dns-gziey                               10.244.0.4          etcd                    quay.io/coreos/etcd:v2.0.3          k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns           Running             30 minutes\r\n                                                                 kube2sky                kubernetes/kube2sky:1.1                                                     "
+    ],
+    [
+      0.000007,
+      "                             "
+    ],
+    [
+      0.000010,
+      "                                                                "
+    ],
+    [
+      0.000004,
+      "                    "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000003,
+      "\r\n        "
+    ],
+    [
+      0.000002,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000003,
+      "skydns"
+    ],
+    [
+      0.000004,
+      "                  "
+    ],
+    [
+      0.000004,
+      "kubernetes/skydns:2015-03-11-001    "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000010,
+      "                                            "
+    ],
+    [
+      0.000004,
+      "            \r\n"
+    ],
+    [
+      0.000022,
+      "monitoring-heapster-controller-0133o        "
+    ],
+    [
+      0.000007,
+      " 10.244.0.6          heapster                kubernetes/heapster:v0.8            k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=heapster,uses=monitoring-influxdb   Running             30 minutes\r\nmonitoring-influx-grafana-controller-oh43e"
+    ],
+    [
+      0.000005,
+      "   10.244.0.5          influxdb"
+    ],
+    [
+      0.000004,
+      "                kubernetes/heapster_influxdb:v0.3"
+    ],
+    [
+      0.000004,
+      "   k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79"
+    ],
+    [
+      0.000003,
+      "   kubernetes.io/cluster-service=true,name=influxGrafana"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "       Running"
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000002,
+      "30 minutes"
+    ],
+    [
+      0.000003,
+      "\r\n        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000004,
+      "                "
+    ],
+    [
+      0.000004,
+      "                     "
+    ],
+    [
+      0.000003,
+      "    grafana"
+    ],
+    [
+      0.000002,
+      "                "
+    ],
+    [
+      0.000003,
+      " kubernetes/heapster_grafana:v0.4"
+    ],
+    [
+      0.000003,
+      "    "
+    ],
+    [
+      0.000002,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000008,
+      "                "
+    ],
+    [
+      0.000004,
+      "                     "
+    ],
+    [
+      0.000020,
+      "                        "
+    ],
+    [
+      0.000006,
+      "                                    "
+    ],
+    [
+      0.000005,
+      "                "
+    ],
+    [
+      0.000003,
+      "    \r\n"
+    ],
+    [
+      0.001399,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "cluster/kubectl.sh get pods"
+    ],
+    [
+      0.743933,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008resize replicationcontrollers --replicas=2 jenkins-slave"
+    ],
+    [
+      0.984123,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[26Purl http://130.211.131.92:8888/computer/api/json"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.399606,
+      "{\"busyExecutors\":0,\"computer\":[{\"actions\":[],\"displayName\":\"master\",\"executors\":[],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":false,\"launchSupported\":true,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":65511424,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":0},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7293964288},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/var/jenkins_home\",\"size\":7293964288},\"hudson.node_monitors.ClockMonitor\":{\"diff\":0}},\"numExecutors\":0,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-h2gdn\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monito"
+    ],
+    [
+      0.000158,
+      "rData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":65511424,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":940},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7293964288},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7293964288},\"hudson.node_monitors.ClockMonitor\":{\"diff\":165}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-yxxvi\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":78561280,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Li"
+    ],
+    [
+      0.000516,
+      "nux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":585},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7293857792},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7293648896},\"hudson.node_monitors.ClockMonitor\":{\"diff\":84}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false}],\"displayName\":\"nodes\",\u001b[01;32m\"totalExecutors\":2\u001b[00m}"
+    ],
+    [
+      0.000771,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000261,
+      "bash-3.2$ "
+    ],
+    [
+      0.863997,
+      "curl http://130.211.131.92:8888/computer/api/json"
+    ],
+    [
+      0.400181,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[22Pluster/kubectl.sh get pods"
+    ],
+    [
+      0.463861,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008resize replicationcontrollers --replicas=2 jenkins-slave"
+    ],
+    [
+      0.727114,
+      "\u0008"
+    ],
+    [
+      0.501785,
+      "\u0008"
+    ],
+    [
+      0.084383,
+      "\u0008"
+    ],
+    [
+      0.084446,
+      "\u0008"
+    ],
+    [
+      0.084413,
+      "\u0008"
+    ],
+    [
+      0.084387,
+      "\u0008"
+    ],
+    [
+      0.084313,
+      "\u0008"
+    ],
+    [
+      0.083738,
+      "\u0008"
+    ],
+    [
+      0.084278,
+      "\u0008"
+    ],
+    [
+      0.084321,
+      "\u0008"
+    ],
+    [
+      0.084301,
+      "\u0008"
+    ],
+    [
+      0.084663,
+      "\u0008"
+    ],
+    [
+      0.084278,
+      "\u0008"
+    ],
+    [
+      0.323494,
+      "\u0008"
+    ],
+    [
+      1.000000,
+      "\u0008\u001b[1P jenkins-slave\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      1.000000,
+      "3 jenkins-slave\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.591705,
+      "\r\n"
+    ],
+    [
+      0.063447,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000138,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl resize replicationcontrollers --replicas=3 jenkins-slave\r\n"
+    ],
+    [
+      1.000000,
+      "resized\r\n"
+    ],
+    [
+      0.001874,
+      "bash-3.2$ "
+    ],
+    [
+      0.601066,
+      "cluster/kubectl.sh resize replicationcontrollers --replicas=3 jenkins-slave"
+    ],
+    [
+      0.510944,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[26Purl http://130.211.131.92:8888/computer/api/json"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.365693,
+      "{\"busyExecutors\":0,\"computer\":[{\"actions\":[],\"displayName\":\"master\",\"executors\":[],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":false,\"launchSupported\":true,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":65511424,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":0},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7293964288},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/var/jenkins_home\",\"size\":7293964288},\"hudson.node_monitors.ClockMonitor\":{\"diff\":0}},\"numExecutors\":0,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-7hvsz\",\"executors\":[{}],\"icon\":\"computer-x.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"moni"
+    ],
+    [
+      0.000124,
+      "torData\":{\"hudson.node_monitors.SwapSpaceMonitor\":null,\"hudson.node_monitors.ArchitectureMonitor\":null,\"hudson.node_monitors.ResponseTimeMonitor\":null,\"hudson.node_monitors.TemporarySpaceMonitor\":null,\"hudson.node_monitors.DiskSpaceMonitor\":null,\"hudson.node_monitors.ClockMonitor\":null},\"numExecutors\":1,\"offline\":true,\"offlineCause\":{},\"offlineCauseReason\":\"This node is offline because Jenkins failed to launch the slave agent on it.\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-h2gdn\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":65511424,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":940},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"si"
+    ],
+    [
+      0.000455,
+      "ze\":7293964288},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7293964288},\"hudson.node_monitors.ClockMonitor\":{\"diff\":165}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-yxxvi\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":78561280,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":585},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7293857792},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7293648896},\"hudson.node_monitors.ClockMonitor\":{\"diff\":84}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null"
+    ],
+    [
+      0.000264,
+      ",\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false}],\"displayName\":\"nodes\",\u001b[01;32m\"totalExecutors\":2\u001b[00m}"
+    ],
+    [
+      0.000754,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "curl http://130.211.131.92:8888/computer/api/json"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.421096,
+      "{\"busyExecutors\":0,\"computer\":[{\"actions\":[],\"displayName\":\"master\",\"executors\":[],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":false,\"launchSupported\":true,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":160464896,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":0},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7292837888},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/var/jenkins_home\",\"size\":7292919808},\"hudson.node_monitors.ClockMonitor\":{\"diff\":0}},\"numExecutors\":0,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-7hvsz\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monit"
+    ],
+    [
+      0.000114,
+      "orData\":{\"hudson.node_monitors.SwapSpaceMonitor\":null,\"hudson.node_monitors.ArchitectureMonitor\":null,\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":5000},\"hudson.node_monitors.TemporarySpaceMonitor\":null,\"hudson.node_monitors.DiskSpaceMonitor\":null,\"hudson.node_monitors.ClockMonitor\":null},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-h2gdn\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":160190464,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":710},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7292755968},\"hudson.node_monitors.DiskSpaceMonitor\":{\"pat"
+    ],
+    [
+      0.000538,
+      "h\":\"/home/jenkins-slave\",\"size\":7292788736},\"hudson.node_monitors.ClockMonitor\":{\"diff\":188}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-yxxvi\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":154550272,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":418},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7292149760},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7292149760},\"hudson.node_monitors.ClockMonitor\":{\"diff\":-207}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarily"
+    ],
+    [
+      0.000289,
+      "Offline\":false}],\"displayName\":\"nodes\",\u001b[01;32m\"totalExecutors\":3\u001b[00m}"
+    ],
+    [
+      0.000671,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "bash-3.2$ "
+    ],
+    [
+      0.752923,
+      "curl http://130.211.131.92:8888/computer/api/json"
+    ],
+    [
+      0.512161,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cluster/kubectl.sh resize replicationcontrollers --replicas=3 jenkins-slave"
+    ],
+    [
+      1.000000,
+      "\u0008"
+    ],
+    [
+      0.501166,
+      "\u0008"
+    ],
+    [
+      0.084427,
+      "\u0008"
+    ],
+    [
+      0.084245,
+      "\u0008"
+    ],
+    [
+      0.084614,
+      "\u0008"
+    ],
+    [
+      0.084233,
+      "\u0008"
+    ],
+    [
+      0.084242,
+      "\u0008"
+    ],
+    [
+      0.084473,
+      "\u0008"
+    ],
+    [
+      0.084464,
+      "\u0008"
+    ],
+    [
+      0.084395,
+      "\u0008"
+    ],
+    [
+      0.084386,
+      "\u0008"
+    ],
+    [
+      0.084358,
+      "\u0008"
+    ],
+    [
+      0.084541,
+      "\u0008"
+    ],
+    [
+      0.402599,
+      "\u0008"
+    ],
+    [
+      0.376058,
+      "\u0008\u001b[1P jenkins-slave\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.528408,
+      "0 jenkins-slave\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.871377,
+      "\r\n"
+    ],
+    [
+      0.062345,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000159,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl resize replicationcontrollers --replicas=0 jenkins-slave\r\n"
+    ],
+    [
+      1.000000,
+      "resized\r\n"
+    ],
+    [
+      0.001997,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "cluster/kubectl.sh resize replicationcontrollers --replicas=0 jenkins-slave"
+    ],
+    [
+      0.927754,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[26Purl http://130.211.131.92:8888/computer/api/json"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.332470,
+      "{\"busyExecutors\":0,\"computer\":[{\"actions\":[],\"displayName\":\"master\",\"executors\":[],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":false,\"launchSupported\":true,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":122941440,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":0},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7278104576},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/var/jenkins_home\",\"size\":7278104576},\"hudson.node_monitors.ClockMonitor\":{\"diff\":0}},\"numExecutors\":0,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-7hvsz\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monit"
+    ],
+    [
+      0.000149,
+      "orData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":122445824,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":2593},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7278104576},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7278104576},\"hudson.node_monitors.ClockMonitor\":{\"diff\":-2}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-h2gdn\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":122941440,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":"
+    ],
+    [
+      0.000442,
+      "\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":533},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7278104576},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7278104576},\"hudson.node_monitors.ClockMonitor\":{\"diff\":0}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-yxxvi\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":122888192,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":279},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7278104576},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/hom"
+    ],
+    [
+      0.000280,
+      "e/jenkins-slave\",\"size\":7278104576},\"hudson.node_monitors.ClockMonitor\":{\"diff\":-1}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false}],\"displayName\":\"nodes\",\u001b[01;32m\"totalExecutors\":3\u001b[00m}"
+    ],
+    [
+      0.000712,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "curl http://130.211.131.92:8888/computer/api/json"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.349668,
+      "{\"busyExecutors\":0,\"computer\":[{\"actions\":[],\"displayName\":\"master\",\"executors\":[],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":false,\"launchSupported\":true,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":122941440,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":0},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7278104576},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/var/jenkins_home\",\"size\":7278104576},\"hudson.node_monitors.ClockMonitor\":{\"diff\":0}},\"numExecutors\":0,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-7hvsz\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monit"
+    ],
+    [
+      0.000172,
+      "orData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":122445824,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":2593},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7278104576},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7278104576},\"hudson.node_monitors.ClockMonitor\":{\"diff\":-2}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false},{\"actions\":[],\"displayName\":\"jenkins-slave-yxxvi\",\"executors\":[{}],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":true,\"launchSupported\":false,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":122888192,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":"
+    ],
+    [
+      0.000464,
+      "\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":279},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7278104576},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/home/jenkins-slave\",\"size\":7278104576},\"hudson.node_monitors.ClockMonitor\":{\"diff\":-1}},\"numExecutors\":1,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false}],\"displayName\":\"nodes\",\u001b[01;32m\"totalExecutors\":2\u001b[00m}"
+    ],
+    [
+      0.000800,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "curl http://130.211.131.92:8888/computer/api/json"
+    ],
+    [
+      0.239405,
+      "\r\n"
+    ],
+    [
+      0.332189,
+      "{\"busyExecutors\":0,\"computer\":[{\"actions\":[],\"displayName\":\"master\",\"executors\":[],\"icon\":\"computer.png\",\"idle\":true,\"jnlpAgent\":false,\"launchSupported\":true,\"loadStatistics\":{},\"manualLaunchAllowed\":true,\"monitorData\":{\"hudson.node_monitors.SwapSpaceMonitor\":{\"availablePhysicalMemory\":122941440,\"availableSwapSpace\":0,\"totalPhysicalMemory\":1787035648,\"totalSwapSpace\":0},\"hudson.node_monitors.ArchitectureMonitor\":\"Linux (amd64)\",\"hudson.node_monitors.ResponseTimeMonitor\":{\"average\":0},\"hudson.node_monitors.TemporarySpaceMonitor\":{\"path\":\"/tmp\",\"size\":7278104576},\"hudson.node_monitors.DiskSpaceMonitor\":{\"path\":\"/var/jenkins_home\",\"size\":7278104576},\"hudson.node_monitors.ClockMonitor\":{\"diff\":0}},\"numExecutors\":0,\"offline\":false,\"offlineCause\":null,\"offlineCauseReason\":\"\",\"oneOffExecutors\":[],\"temporarilyOffline\":false}],\"displayName\":\"nodes\",\u001b[01;32m\"totalExecutors\":0\u001b[00m}"
+    ],
+    [
+      0.001183,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000222,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "exit\r\n"
+    ]
+  ]
+}

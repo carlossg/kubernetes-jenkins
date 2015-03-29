@@ -38,3 +38,14 @@ cluster/kubectl.sh delete services jenkins-slave
 cluster/kube-down.sh
 gcloud compute firewall-rules delete jenkins-node-master
 ```
+
+# Demo
+
+Kubernetes cluster up
+[![asciicast](https://asciinema.org/a/18158.png)](https://asciinema.org/a/18158)
+
+Jenkins master and slaves provisioning
+[![asciicast](https://asciinema.org/a/18159.png)](https://asciinema.org/a/18159)
+
+Kubernetes cluster teardown
+[![asciicast](https://asciinema.org/a/18160.png)](https://asciinema.org/a/18160)

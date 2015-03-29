@@ -1,0 +1,1446 @@
+{
+  "version": 1,
+  "width": 181,
+  "height": 48,
+  "duration": 78.296703,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.04,
+      "bash-3.2$ "
+    ],
+    [
+      0.04,
+      "e"
+    ],
+    [
+      0.04,
+      "x"
+    ],
+    [
+      0.04,
+      "p"
+    ],
+    [
+      0.04,
+      "o"
+    ],
+    [
+      0.04,
+      "r"
+    ],
+    [
+      0.04,
+      "t"
+    ],
+    [
+      0.04,
+      " "
+    ],
+    [
+      0.04,
+      "K"
+    ],
+    [
+      0.04,
+      "U"
+    ],
+    [
+      0.04,
+      "B"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "R"
+    ],
+    [
+      0.04,
+      "N"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "T"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "S"
+    ],
+    [
+      0.04,
+      "_"
+    ],
+    [
+      0.04,
+      "P"
+    ],
+    [
+      0.04,
+      "R"
+    ],
+    [
+      0.04,
+      "O"
+    ],
+    [
+      0.04,
+      "V"
+    ],
+    [
+      0.04,
+      "I"
+    ],
+    [
+      0.04,
+      "D"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "R"
+    ],
+    [
+      0.04,
+      "="
+    ],
+    [
+      0.04,
+      "g"
+    ],
+    [
+      0.04,
+      "c"
+    ],
+    [
+      0.04,
+      "e"
+    ],
+    [
+      0.04,
+      "\r\n"
+    ],
+    [
+      0.04,
+      "bash-3.2$ "
+    ],
+    [
+      0.04,
+      "e"
+    ],
+    [
+      0.04,
+      "x"
+    ],
+    [
+      0.04,
+      "p"
+    ],
+    [
+      0.04,
+      "o"
+    ],
+    [
+      0.04,
+      "r"
+    ],
+    [
+      0.04,
+      "t"
+    ],
+    [
+      0.04,
+      " "
+    ],
+    [
+      0.04,
+      "K"
+    ],
+    [
+      0.04,
+      "U"
+    ],
+    [
+      0.04,
+      "B"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "R"
+    ],
+    [
+      0.04,
+      "N"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "T"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "S"
+    ],
+    [
+      0.04,
+      "_"
+    ],
+    [
+      0.04,
+      "N"
+    ],
+    [
+      0.04,
+      "U"
+    ],
+    [
+      0.04,
+      "M"
+    ],
+    [
+      0.04,
+      "_"
+    ],
+    [
+      0.04,
+      "M"
+    ],
+    [
+      0.04,
+      "I"
+    ],
+    [
+      0.04,
+      "N"
+    ],
+    [
+      0.04,
+      "I"
+    ],
+    [
+      0.04,
+      "O"
+    ],
+    [
+      0.04,
+      "N"
+    ],
+    [
+      0.04,
+      "S"
+    ],
+    [
+      0.04,
+      "="
+    ],
+    [
+      0.04,
+      "2"
+    ],
+    [
+      0.04,
+      "\r\n"
+    ],
+    [
+      0.04,
+      "bash-3.2$ "
+    ],
+    [
+      0.04,
+      "e"
+    ],
+    [
+      0.04,
+      "x"
+    ],
+    [
+      0.04,
+      "p"
+    ],
+    [
+      0.04,
+      "o"
+    ],
+    [
+      0.04,
+      "r"
+    ],
+    [
+      0.04,
+      "t"
+    ],
+    [
+      0.04,
+      " "
+    ],
+    [
+      0.04,
+      "K"
+    ],
+    [
+      0.04,
+      "U"
+    ],
+    [
+      0.04,
+      "B"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "_"
+    ],
+    [
+      0.04,
+      "G"
+    ],
+    [
+      0.04,
+      "C"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "_"
+    ],
+    [
+      0.04,
+      "Z"
+    ],
+    [
+      0.04,
+      "O"
+    ],
+    [
+      0.04,
+      "N"
+    ],
+    [
+      0.04,
+      "E"
+    ],
+    [
+      0.04,
+      "="
+    ],
+    [
+      0.04,
+      "u"
+    ],
+    [
+      0.04,
+      "s"
+    ],
+    [
+      0.04,
+      "-"
+    ],
+    [
+      0.04,
+      "c"
+    ],
+    [
+      0.04,
+      "e"
+    ],
+    [
+      0.04,
+      "n"
+    ],
+    [
+      0.04,
+      "t"
+    ],
+    [
+      0.04,
+      "r"
+    ],
+    [
+      0.04,
+      "a"
+    ],
+    [
+      0.04,
+      "l"
+    ],
+    [
+      0.04,
+      "-"
+    ],
+    [
+      0.04,
+      "\b\u001b[K"
+    ],
+    [
+      0.04,
+      "1"
+    ],
+    [
+      0.04,
+      "-"
+    ],
+    [
+      0.04,
+      "a"
+    ],
+    [
+      0.04,
+      "\r\n"
+    ],
+    [
+      0.04,
+      "bash-3.2$ "
+    ],
+    [
+      0.04,
+      "c"
+    ],
+    [
+      0.04,
+      "l"
+    ],
+    [
+      0.04,
+      "u"
+    ],
+    [
+      0.04,
+      "s"
+    ],
+    [
+      0.04,
+      "t"
+    ],
+    [
+      0.04,
+      "e"
+    ],
+    [
+      0.04,
+      "r"
+    ],
+    [
+      0.04,
+      "/"
+    ],
+    [
+      0.04,
+      "k"
+    ],
+    [
+      0.04,
+      "u"
+    ],
+    [
+      0.04,
+      "b"
+    ],
+    [
+      0.04,
+      "e"
+    ],
+    [
+      0.04,
+      "-"
+    ],
+    [
+      0.04,
+      "u"
+    ],
+    [
+      0.04,
+      "p"
+    ],
+    [
+      0.04,
+      "."
+    ],
+    [
+      0.04,
+      "s"
+    ],
+    [
+      0.04,
+      "h"
+    ],
+    [
+      0.04,
+      "\r\n"
+    ],
+    [
+      0.024691,
+      "Starting cluster using provider: gce\r\n"
+    ],
+    [
+      0.000011,
+      "... calling verify-prereqs\r\n"
+    ],
+    [
+      0.003875,
+      "... calling kube-up\r\n"
+    ],
+    [
+      0.349046,
+      "Project: gce-my-project\r\n"
+    ],
+    [
+      0.000019,
+      "Zone: us-central1-a\r\n"
+    ],
+    [
+      0.129893,
+      "current-context: \"\"\r\n"
+    ],
+    [
+      0.000157,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl config view -o template --template={{$dot := .}}{{with $ctx := index $dot \"current-context\"}}{{$user := index $dot \"contexts\" $ctx \"user\"}}{{index $dot \"users\" $user \"username\"}}{{end}}\r\n"
+    ],
+    [
+      0.049430,
+      "current-context: \"\"\r\n"
+    ],
+    [
+      0.000182,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl config view -o template --template={{$dot := .}}{{with $ctx := index $dot \"current-context\"}}{{$user := index $dot \"contexts\" $ctx \"user\"}}{{index $dot \"users\" $user \"password\"}}{{end}}\r\n"
+    ],
+    [
+      1.000000,
+      "+++ Staging server tars to Google Storage: gs://kubernetes-staging-c41d4/devel\r\n"
+    ],
+    [
+      1.000000,
+      "Starting master and configuring firewalls\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[1;33mWARNING:\u001b[0m You have selected a disk size of under [200GB]. This may result in poor I/O performance. For more information, see: https://developers.google.com/compute/docs/disks#pdperformance.\r\n"
+    ],
+    [
+      1.000000,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/zones/us-central1-a/disks/k8s-jenkins-master-pd].\r\n"
+    ],
+    [
+      0.304970,
+      "NAME                  ZONE          SIZE_GB TYPE        STATUS\r\n"
+    ],
+    [
+      0.000248,
+      "k8s-jenkins-master-pd us-central1-a 10      pd-standard READY\r\n"
+    ],
+    [
+      0.055138,
+      "date: illegal option -- I\r\nusage: date [-jnu] [-d dst] [-r seconds] [-t west] [-v[+|-]val[ymwdHMS]] ... \r\n            [-f fmt date | [[[mm]dd]HH]MM[[cc]yy][.ss]] [+format]\r\n"
+    ],
+    [
+      0.002352,
+      "cluster/../cluster/gce/util.sh: line 427: @: unbound variable\r\n"
+    ],
+    [
+      0.086223,
+      "+++ Logging using Fluentd to elasticsearch\r\n"
+    ],
+    [
+      1.000000,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/global/firewalls/k8s-jenkins-master-https].\r\n"
+    ],
+    [
+      0.324965,
+      "NAME                     NETWORK SRC_RANGES RULES   SRC_TAGS TARGET_TAGS\r\n"
+    ],
+    [
+      0.000204,
+      "k8s-jenkins-master-https default 0.0.0.0/0  tcp:443          k8s-jenkins-master\r\n"
+    ],
+    [
+      1.000000,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/global/firewalls/k8s-jenkins-minion-all].\r\n"
+    ],
+    [
+      0.302284,
+      "NAME                   NETWORK SRC_RANGES    RULES                    SRC_TAGS TARGET_TAGS\r\nk8s-jenkins-minion-all default 10.244.0.0/16 tcp,udp,icmp,esp,ah,sctp          k8s-jenkins-minion\r\n"
+    ],
+    [
+      1.000000,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/zones/us-central1-a/instances/k8s-jenkins-master].\r\n"
+    ],
+    [
+      0.323924,
+      "NAME               ZONE          MACHINE_TYPE INTERNAL_IP  EXTERNAL_IP    STATUS\r\n"
+    ],
+    [
+      0.000127,
+      "k8s-jenkins-master us-central1-a g1-small     10.240.35.23 104.154.32.213 RUNNING\r\n"
+    ],
+    [
+      1.000000,
+      "Updated [https://www.googleapis.com/compute/v1/projects/gce-my-project/zones/us-central1-a/instances/k8s-jenkins-master].\r\n"
+    ],
+    [
+      0.354907,
+      "Creating minions.\r\n"
+    ],
+    [
+      0.005277,
+      "date: illegal option -- I\r\nusage: date [-jnu] [-d dst] [-r seconds] [-t west] [-v[+|-]val[ymwdHMS]] ... \r\n            [-f fmt date | [[[mm]dd]HH]MM[[cc]yy][.ss]] [+format]\r\n"
+    ],
+    [
+      0.001513,
+      "cluster/../cluster/gce/util.sh: line 427: @: unbound variable\r\n"
+    ],
+    [
+      0.827110,
+      "\u001b[1;33mWARNING:\u001b[0m You have selected a disk size of under [200GB]. This may result in poor I/O performance. For more information, see: https://developers.google.com/compute/docs/disks#pdperformance.\r\n"
+    ],
+    [
+      1.000000,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/global/instanceTemplates/k8s-jenkins-minion-template].\r\n"
+    ],
+    [
+      0.298285,
+      "NAME                        MACHINE_TYPE CREATION_TIMESTAMP\r\n"
+    ],
+    [
+      0.000124,
+      "k8s-jenkins-minion-template g1-small     2015-03-20T05:41:45.220-07:00\r\n"
+    ],
+    [
+      1.000000,
+      "Managed instance group k8s-jenkins-minion-group is being created. Operation: operation-1426855314138-d6d577f7-be4e-4a5b-bd8a-d4f0729dc979\r\n"
+    ],
+    [
+      0.028685,
+      "\u001b[0;33mWaiting for minions to run. "
+    ],
+    [
+      0.000019,
+      "0 out of 2 running. Retrying.\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mWaiting for minions to run. "
+    ],
+    [
+      0.000011,
+      "0 out of 2 running. Retrying.\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mWaiting for minions to run. 0 out of 2 running. Retrying.\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mWaiting for minions to run. 0 out of 2 running. Retrying.\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mWaiting for minions to run. 0 out of 2 running. Retrying.\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mWaiting for minions to run. 1 out of 2 running. Retrying.\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;33mWaiting for minions to run. "
+    ],
+    [
+      0.000012,
+      "1 out of 2 running. Retrying.\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "MINION_NAMES=k8s-jenkins-minion-5025 k8s-jenkins-minion-axrl\r\n"
+    ],
+    [
+      1.000000,
+      "Updated [https://www.googleapis.com/compute/v1/projects/gce-my-project/zones/us-central1-a/instances/k8s-jenkins-master].\r\n"
+    ],
+    [
+      1.000000,
+      "Updated [https://www.googleapis.com/compute/v1/projects/gce-my-project/zones/us-central1-a/instances/k8s-jenkins-minion-axrl].\r\n"
+    ],
+    [
+      0.344805,
+      "Updated [https://www.googleapis.com/compute/v1/projects/gce-my-project/zones/us-central1-a/instances/k8s-jenkins-minion-5025].\r\n"
+    ],
+    [
+      1.000000,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/global/routes/k8s-jenkins-minion-axrl].\r\n"
+    ],
+    [
+      0.307615,
+      "NAME                    NETWORK DEST_RANGE    NEXT_HOP                                        PRIORITY\r\n"
+    ],
+    [
+      0.000162,
+      "k8s-jenkins-minion-axrl default 10.244.1.0/24 us-central1-a/instances/k8s-jenkins-minion-axrl 1000\r\n"
+    ],
+    [
+      0.146810,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/global/routes/k8s-jenkins-minion-5025].\r\n"
+    ],
+    [
+      0.304017,
+      "NAME                    NETWORK DEST_RANGE    NEXT_HOP                                        PRIORITY\r\n"
+    ],
+    [
+      0.000268,
+      "k8s-jenkins-minion-5025 default 10.244.0.0/24 us-central1-a/instances/k8s-jenkins-minion-5025 1000\r\n"
+    ],
+    [
+      1.000000,
+      "Using master: k8s-jenkins-master (external IP: 104.154.32.213)\r\n"
+    ],
+    [
+      1.000000,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/regions/us-central1/addresses/k8s-jenkins-master-ip].\r\n"
+    ],
+    [
+      0.315478,
+      "NAME                  REGION      ADDRESS        STATUS\r\n"
+    ],
+    [
+      0.000540,
+      "k8s-jenkins-master-ip us-central1 104.154.32.213 IN_USE\r\n"
+    ],
+    [
+      0.036390,
+      "Waiting for cluster initialization.\r\n"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "  This will continually check to see if the API for kubernetes is reachable.\r\n"
+    ],
+    [
+      0.000034,
+      "  This might loop forever if there was some uncaught error during start\r\n"
+    ],
+    [
+      0.000007,
+      "  up.\r\n"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.170639,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "Kubernetes cluster created.\r\n"
+    ],
+    [
+      1.000000,
+      "current-context: \"\"\r\n"
+    ],
+    [
+      0.000141,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl config set-cluster gce-my-project_k8s-jenkins --server=https://104.154.32.213 --certificate-authority=/tmp/kubernetes.ca.crt --embed-certs=true\r\n"
+    ],
+    [
+      0.055017,
+      "current-context: \"\"\r\n"
+    ],
+    [
+      0.000173,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl config set-credentials gce-my-project_k8s-jenkins --username=admin --password=dq4WnH18xgdZ2iSH --client-certificate=/tmp/kubecfg.crt --client-key=/tmp/kubecfg.key --embed-certs=true\r\n"
+    ],
+    [
+      0.089570,
+      "current-context: \"\"\r\n"
+    ],
+    [
+      0.000136,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl config set-context gce-my-project_k8s-jenkins --cluster=gce-my-project_k8s-jenkins --user=gce-my-project_k8s-jenkins\r\n"
+    ],
+    [
+      0.099537,
+      "current-context: \"\"\r\n"
+    ],
+    [
+      0.000247,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl config use-context gce-my-project_k8s-jenkins --cluster=gce-my-project_k8s-jenkins\r\n"
+    ],
+    [
+      0.029055,
+      "Wrote config for gce-my-project_k8s-jenkins to /Users/csanchez/.kube/.kubeconfig\r\n"
+    ],
+    [
+      0.000347,
+      "Sanity checking cluster...\r\n"
+    ],
+    [
+      0.000137,
+      "Attempt 1 to check Docker on node k8s-jenkins-minion-5025 ..."
+    ],
+    [
+      1.000000,
+      " \u001b[0;32m[working]\u001b[0m\r\n"
+    ],
+    [
+      0.000086,
+      "Attempt 1 to check Docker on node k8s-jenkins-minion-axrl ..."
+    ],
+    [
+      1.000000,
+      " \u001b[0;32m[working]\u001b[0m\r\n"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[0;32mKubernetes cluster is running.  The master is running at:\r\n"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[0;33m  https://104.154.32.213\r\n"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "\u001b[0;32mThe user name and password to use is located in /Users/csanchez/.kube/.kubeconfig.\u001b[0m\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000350,
+      "... calling validate-cluster\r\n"
+    ],
+    [
+      0.089655,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000176,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl config view -o template --template={{$dot := .}}{{with $ctx := index $dot \"current-context\"}}{{$user := index $dot \"contexts\" $ctx \"user\"}}{{index $dot \"users\" $user \"username\"}}{{end}}\r\n"
+    ],
+    [
+      0.122442,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000166,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl config view -o template --template={{$dot := .}}{{with $ctx := index $dot \"current-context\"}}{{$user := index $dot \"contexts\" $ctx \"user\"}}{{index $dot \"users\" $user \"password\"}}{{end}}\r\n"
+    ],
+    [
+      0.392343,
+      "Project: gce-my-project\r\nZone: us-central1-a\r\n"
+    ],
+    [
+      1.000000,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000226,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get minions -o template -t {{range.items}}{{.id}}\r\n{{end}}\r\n"
+    ],
+    [
+      0.938210,
+      "Found 2 nodes.\r\n"
+    ],
+    [
+      0.001839,
+      "     1\tk8s-jenkins-minion-5025.c.gce-my-project.internal\r\n     2\tk8s-jenkins-minion-axrl.c.gce-my-project.internal\r\n"
+    ],
+    [
+      0.005876,
+      "Attempt 1 at checking Kubelet installation on node k8s-jenkins-minion-5025 ..."
+    ],
+    [
+      0.969359,
+      " \u001b[0;32m[working]\u001b[0m\r\n"
+    ],
+    [
+      0.008086,
+      "Attempt 1 at checking Kubelet installation on node k8s-jenkins-minion-axrl ..."
+    ],
+    [
+      0.875270,
+      " \u001b[0;33m[not working yet]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "Attempt 2 at checking Kubelet installation on node k8s-jenkins-minion-axrl ..."
+    ],
+    [
+      0.906585,
+      " \u001b[0;33m[not working yet]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "Attempt 3 at checking Kubelet installation on node k8s-jenkins-minion-axrl ..."
+    ],
+    [
+      0.921649,
+      " \u001b[0;33m[not working yet]\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "Attempt 4 at checking Kubelet installation on node k8s-jenkins-minion-axrl ..."
+    ],
+    [
+      0.925641,
+      " \u001b[0;32m[working]\u001b[0m\r\n"
+    ],
+    [
+      0.000308,
+      "\u001b[0;32mCluster validation succeeded\u001b[0m\r\n"
+    ],
+    [
+      0.004167,
+      "... calling setup-logging-firewall\r\n"
+    ],
+    [
+      1.000000,
+      "Created [https://www.googleapis.com/compute/v1/projects/gce-my-project/global/firewalls/k8s-jenkins-fluentd-elasticsearch-logging].\r\n"
+    ],
+    [
+      0.302847,
+      "NAME                                      NETWORK SRC_RANGES RULES                      SRC_TAGS TARGET_TAGS\r\n"
+    ],
+    [
+      0.000220,
+      "k8s-jenkins-fluentd-elasticsearch-logging default 0.0.0.0/0  tcp:5601,tcp:9200,tcp:9300          k8s-jenkins-minion\r\n"
+    ],
+    [
+      0.038217,
+      "waiting for logging services to be created by the master.\r\n"
+    ],
+    [
+      0.073941,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000288,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get services -l name=kibana-logging -o template -t {{range.items}}{{.id}}{{end}}\r\n"
+    ],
+    [
+      0.988640,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000148,
+      "Running: cluster/../cluster/gce/../../cluster/../cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get services -l name=elasticsearch-logging -o template -t {{range.items}}{{.id}}{{end}}\r\n"
+    ],
+    [
+      0.912898,
+      "\r\n"
+    ],
+    [
+      0.000111,
+      "\u001b[0;32mCluster logs are ingested into Elasticsearch running at \u001b[0;33mhttps://104.154.32.213/api/v1beta1/proxy/services/elasticsearch-logging/\r\n"
+    ],
+    [
+      0.000189,
+      "\u001b[0;32mKibana logging dashboard will be available at \u001b[0;33mhttps://104.154.32.213/api/v1beta1/proxy/services/kibana-logging/\u001b[0m (note the trailing slash)\r\n"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "Done\r\n"
+    ],
+    [
+      0.004204,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "c"
+    ],
+    [
+      0.000011,
+      "lu"
+    ],
+    [
+      0.000023,
+      "s"
+    ],
+    [
+      0.000008,
+      "t"
+    ],
+    [
+      0.000020,
+      "e"
+    ],
+    [
+      0.000021,
+      "r"
+    ],
+    [
+      0.000007,
+      "/"
+    ],
+    [
+      0.000046,
+      "k"
+    ],
+    [
+      0.000011,
+      "u"
+    ],
+    [
+      0.000004,
+      "b"
+    ],
+    [
+      0.000021,
+      "e"
+    ],
+    [
+      0.000015,
+      "c"
+    ],
+    [
+      0.000022,
+      "t"
+    ],
+    [
+      0.000005,
+      "l"
+    ],
+    [
+      0.000022,
+      "."
+    ],
+    [
+      0.000026,
+      "s"
+    ],
+    [
+      0.000005,
+      "h"
+    ],
+    [
+      0.000032,
+      " "
+    ],
+    [
+      0.000005,
+      "g"
+    ],
+    [
+      0.000025,
+      "e"
+    ],
+    [
+      0.000015,
+      "t"
+    ],
+    [
+      0.000028,
+      " "
+    ],
+    [
+      0.000005,
+      "m"
+    ],
+    [
+      0.000019,
+      "i"
+    ],
+    [
+      0.000026,
+      "n"
+    ],
+    [
+      0.000030,
+      "i"
+    ],
+    [
+      0.000005,
+      "o"
+    ],
+    [
+      0.000023,
+      "n"
+    ],
+    [
+      0.000017,
+      "s"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.057168,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000082,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get minions\r\n"
+    ],
+    [
+      0.902817,
+      "NAME                                                  LABELS              STATUS\r\nk8s-jenkins-minion-5025.c.gce-my-project.internal   \u003cnone\u003e              Ready\r\nk8s-jenkins-minion-axrl.c.gce-my-project.internal   \u003cnone\u003e              Ready"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.001581,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "cluster/kubectl.sh get minions"
+    ],
+    [
+      0.799349,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.511519,
+      "p"
+    ],
+    [
+      0.064254,
+      "o"
+    ],
+    [
+      0.119651,
+      "d"
+    ],
+    [
+      0.032457,
+      "s"
+    ],
+    [
+      0.271823,
+      "\r\n"
+    ],
+    [
+      0.059681,
+      "current-context: \"gce-my-project_k8s-jenkins\"\r\n"
+    ],
+    [
+      0.000107,
+      "Running: cluster/../cluster/gce/../../cluster/../platforms/darwin/amd64/kubectl get pods\r\n"
+    ],
+    [
+      1.000000,
+      "POD                                          IP                  CONTAINER(S)            IMAGE(S)                            HOST                "
+    ],
+    [
+      0.000014,
+      "                                                 LABELS                                                                      STATUS              CREATED\r\nelasticsearch-logging-controller-fplln       10.244.0.3          elasticsearch-logging   "
+    ],
+    [
+      0.000006,
+      "kubernetes/elasticsearch:1.0        k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=elasticsearch-logging        "
+    ],
+    [
+      0.000005,
+      "       Running             "
+    ],
+    [
+      0.000004,
+      "11 minutes\r\nkibana-logging-controller-ls6k1"
+    ],
+    [
+      0.000004,
+      "              10.244.0.7"
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000003,
+      "kibana-logging        "
+    ],
+    [
+      0.000003,
+      "  kubernetes/kibana:1.1        "
+    ],
+    [
+      0.000003,
+      "       k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   "
+    ],
+    [
+      0.000004,
+      "kubernetes.io/cluster-service=true,name=kibana-logging                "
+    ],
+    [
+      0.000003,
+      "      Running        "
+    ],
+    [
+      0.000003,
+      "     11 minutes"
+    ],
+    [
+      0.000004,
+      "\r\nkube-dns-gziey"
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "               10.244.0.4"
+    ],
+    [
+      0.000003,
+      "          "
+    ],
+    [
+      0.000003,
+      "etcd        "
+    ],
+    [
+      0.000003,
+      "            quay.io/coreos/etcd:v2.0.3"
+    ],
+    [
+      0.000003,
+      "          k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79"
+    ],
+    [
+      0.000003,
+      "   k8s-app=kube-dns,kubernetes.io/cluster-service=true,name=kube-dns"
+    ],
+    [
+      0.000003,
+      "           "
+    ],
+    [
+      0.000003,
+      "Running        "
+    ],
+    [
+      0.000024,
+      "     11 minutes\r\n"
+    ],
+    [
+      0.000005,
+      "                                "
+    ],
+    [
+      0.000004,
+      "                     "
+    ],
+    [
+      0.000004,
+      "            "
+    ],
+    [
+      0.000003,
+      "kube2sky                "
+    ],
+    [
+      0.000003,
+      "kubernetes/kube2sky:1.1        "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000002,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000002,
+      "\r\n        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000002,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000003,
+      "            "
+    ],
+    [
+      0.000010,
+      "skydns                  kubernetes/skydns:2015-03-11-001            "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "             "
+    ],
+    [
+      0.000004,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                        "
+    ],
+    [
+      0.000003,
+      "                    "
+    ],
+    [
+      0.000003,
+      "                "
+    ],
+    [
+      0.000003,
+      "    \r\n"
+    ],
+    [
+      0.000003,
+      "monitoring-heapster-controller-0133o        "
+    ],
+    [
+      0.000003,
+      " "
+    ],
+    [
+      0.000002,
+      "10.244.0.6        "
+    ],
+    [
+      0.000003,
+      "  heapster"
+    ],
+    [
+      0.000098,
+      "                kubernetes/heapster:v0.8"
+    ],
+    [
+      0.000010,
+      "            k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=heapster,uses=monitoring-influxdb   Running             11 minutes\r\nmonitoring-influx-grafana-controller-oh43e   10.244.0.5          influxdb                kubernetes/heapster_influxdb:v0.3   k8s-jenkins-minion-5025.c.gce-my-project.internal/162.222.179.79   kubernetes.io/cluster-service=true,name=influxGrafana                       Running             11 minutes\r\n                                                                 grafana                 kubernetes/heapster_grafana:v0.4                                                                                                                                         "
+    ],
+    [
+      0.000007,
+      "                                \r\n"
+    ],
+    [
+      0.001342,
+      "bash-3.2$ "
+    ],
+    [
+      1.000000,
+      "exit\r\n"
+    ]
+  ]
+}
