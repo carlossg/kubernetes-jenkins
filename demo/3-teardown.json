@@ -2,7 +2,7 @@
   "version": 1,
   "width": 181,
   "height": 48,
-  "duration": 28.271492,
+  "duration": 33,
   "command": "/bin/bash",
   "title": "",
   "env": {

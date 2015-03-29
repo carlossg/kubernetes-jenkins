@@ -42,10 +42,10 @@ gcloud compute firewall-rules delete jenkins-node-master
 # Demo
 
 Kubernetes cluster up
-[![asciicast](https://asciinema.org/a/18158.png)](https://asciinema.org/a/18158)
+[![asciicast](https://asciinema.org/a/18161.png)](https://asciinema.org/a/18161)
 
 Jenkins master and slaves provisioning
-[![asciicast](https://asciinema.org/a/18159.png)](https://asciinema.org/a/18159)
+[![asciicast](https://asciinema.org/a/18162.png)](https://asciinema.org/a/18162)
 
 Kubernetes cluster teardown
-[![asciicast](https://asciinema.org/a/18160.png)](https://asciinema.org/a/18160)
+[![asciicast](https://asciinema.org/a/18163.png)](https://asciinema.org/a/18163)
