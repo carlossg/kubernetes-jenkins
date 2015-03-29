@@ -6,5 +6,6 @@
   "containerPort": 8080,
   "selector": {
     "name": "jenkins"
-  }
+  },
+  "createExternalLoadBalancer": true
 }
