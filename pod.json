@@ -32,9 +32,7 @@
         {
           "name": "jenkins-data",
           "source": {
-            "persistentDisk": {
-              "pdName": "kubernetes-jenkins",
-              "fsType": "ext4"
+            "emptyDir": {
             }
           }
         }
