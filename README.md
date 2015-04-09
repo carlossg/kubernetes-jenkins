@@ -19,8 +19,8 @@ cluster/kubectl.sh create -f kubernetes-jenkins/service-http.json
 cluster/kubectl.sh create -f kubernetes-jenkins/service-slave.json
 cluster/kubectl.sh get services
 gcloud compute forwarding-rules list
-gcloud compute forwarding-rules describe k8s-jenkins-default-jenkins
-gcloud compute firewall-rules create jenkins-node-master --allow=tcp:8888 --target-tags k8s-jenkins-minion
+gcloud compute forwarding-rules describe --region us-central1 kubernetes-default-jenkins
+gcloud compute firewall-rules create jenkins-node-master --allow=tcp:8888 --target-tags kubernetes-minion
 cluster/kubectl.sh create -f kubernetes-jenkins/replication.json
 cluster/kubectl.sh get pods
 cluster/kubectl.sh resize replicationcontrollers --replicas=2 jenkins-slave
