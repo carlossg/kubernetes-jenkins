@@ -1,10 +1,21 @@
 {
-  "id": "jenkins-slave",
+  "apiVersion": "v1",
   "kind": "Service",
-  "apiVersion": "v1beta1",
-  "port": 50000,
-  "containerPort": 50000,
-  "selector": {
-    "name": "jenkins"
+  "metadata": {
+    "name": "jenkins-slave"
+  },
+  "spec": {
+    "type": "NodePort",
+    "selector": {
+      "name": "jenkins"
+    },
+    "ports": [
+      {
+        "name": "http",
+        "port": 50000,
+        "nodePort": 32050,
+        "protocol": "TCP"
+      }
+    ]
   }
 }

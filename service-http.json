@@ -1,11 +1,21 @@
 {
-  "id": "jenkins",
+  "apiVersion": "v1",
   "kind": "Service",
-  "apiVersion": "v1beta1",
-  "port": 8888,
-  "containerPort": 8080,
-  "selector": {
+  "metadata": {
     "name": "jenkins"
   },
-  "createExternalLoadBalancer": true
+  "spec": {
+    "type": "NodePort",
+    "selector": {
+      "name": "jenkins"
+    },
+    "ports": [
+      {
+        "name": "http",
+        "port": 8090,
+        "nodePort": 32080,
+        "protocol": "TCP"
+      }
+    ]
+  }
 }
