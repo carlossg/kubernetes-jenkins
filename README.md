@@ -55,6 +55,13 @@ gcloud compute firewall-rules create --validate jenkins-node-master --allow=tcp:
 
 ```
 
+Rolling update
+==============
+
+```
+kubectl rolling-update jenkins-slave --update-period=10s -f replication-v2.json
+```
+
 Tearing down
 ============
 
