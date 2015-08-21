@@ -39,12 +39,12 @@ Creating the pods and services
 
 ```
 kubectl get nodes
-kubectl create --validate -f pod.json
+kubectl create --validate -f pod.yml
 kubectl get pods
-kubectl create --validate -f service-http.json
-kubectl create --validate -f service-slave.json
+kubectl create --validate -f service-http.yml
+kubectl create --validate -f service-slave.yml
 kubectl get services
-kubectl create --validate -f replication.json
+kubectl create --validate -f replication.yml
 kubectl get pods
 kubectl scale replicationcontrollers --replicas=2 jenkins-slave
 
@@ -59,7 +59,7 @@ Rolling update
 ==============
 
 ```
-kubectl rolling-update jenkins-slave --update-period=10s -f replication-v2.json
+kubectl rolling-update jenkins-slave --update-period=10s -f replication-v2.yml
 ```
 
 Tearing down
