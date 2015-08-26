@@ -26,3 +26,9 @@
         name: "jenkins-data"
         hostPath: 
           path: "/home/docker/jenkins"
+        # gcePersistentDisk:
+        #   pdName: my-data-disk
+        #   fsType: ext4
+        # awsElasticBlockStore:
+        #   volumeID: aws://<availability-zone>/<volume-id>
+        #   fsType: ext4
