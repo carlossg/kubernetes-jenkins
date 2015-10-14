@@ -19,12 +19,12 @@
             image: "csanchez/jenkins-swarm-slave:2.0"
             env: 
               # these env vars are a hack only needed when running under docker-compose in one host
-              - 
-                name: "JENKINS_SERVICE_HOST"
-                value: "10.0.2.15"
-              - 
-                name: "JENKINS_SLAVE_SERVICE_HOST"
-                value: "10.0.2.15"
+              # - 
+              #   name: "JENKINS_SERVICE_HOST"
+              #   value: "10.0.2.15"
+              # - 
+              #   name: "JENKINS_SLAVE_SERVICE_HOST"
+              #   value: "10.0.2.15"
             command: 
               - "/usr/local/bin/jenkins-slave.sh"
               - "-master"
