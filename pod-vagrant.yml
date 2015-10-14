@@ -9,14 +9,12 @@
     containers: 
       - 
         name: "jenkins"
-        image: "csanchez/jenkins-swarm:1.609.2"
+        image: "csanchez/jenkins-swarm:1.609.3-for-volumes"
         ports: 
           - 
             containerPort: 8080
-            hostPort: 8090
           - 
             containerPort: 50000
-            hostPort: 50000
         volumeMounts: 
           - 
             name: "jenkins-data"
@@ -24,10 +22,10 @@
     volumes: 
       - 
         name: "jenkins-data"
-        hostPath: 
+        hostPath:
           path: "/home/docker/jenkins"
         # gcePersistentDisk:
-        #   pdName: my-data-disk
+        #   pdName: jenkins-data-disk
         #   fsType: ext4
         # awsElasticBlockStore:
         #   volumeID: aws://<availability-zone>/<volume-id>

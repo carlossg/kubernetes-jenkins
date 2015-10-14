@@ -39,7 +39,12 @@ Creating the pods and services
 
 ```
 kubectl get nodes
-kubectl create --validate -f pod.yml
+
+# Vagrant
+kubectl create --validate -f pod-vagrant.yml
+# or GKE
+kubectl create --validate -f pod-gke.yml
+
 kubectl get pods
 kubectl create --validate -f service-http.yml
 kubectl create --validate -f service-slave.yml
