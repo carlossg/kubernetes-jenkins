@@ -46,10 +46,10 @@ kubectl create --validate -f pod-vagrant.yml
 kubectl create --validate -f pod-gke.yml
 
 kubectl get pods
-kubectl create --validate -f service-http.yml
-kubectl create --validate -f service-slave.yml
+kubectl create --validate -f service.yml
 kubectl get services
 kubectl create --validate -f replication.yml
+kubectl get rc
 kubectl get pods
 kubectl scale replicationcontrollers --replicas=2 jenkins-slave
 
@@ -75,7 +75,6 @@ kubectl stop jenkins-slave
 kubectl delete replicationcontrollers jenkins-slave
 kubectl delete pods jenkins
 kubectl delete services jenkins
-kubectl delete services jenkins-slave
 $KUBERNETES_HOME/cluster/kube-down.sh
 gcloud compute firewall-rules delete jenkins-node-master
 ```

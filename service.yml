@@ -4,12 +4,17 @@
   metadata: 
     name: "jenkins"
   spec: 
-    type: "NodePort"
+    type: "ClusterIP"
     selector: 
       name: "jenkins"
     ports: 
       - 
         name: "http"
-        port: 8090
-        nodePort: 32080
+        port: 8080
+        # nodePort: 32080
+        protocol: "TCP"
+      - 
+        name: "slave"
+        port: 50000
+        # nodePort: 32081
         protocol: "TCP"
