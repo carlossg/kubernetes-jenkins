@@ -28,9 +28,9 @@
             command: 
               - "/usr/local/bin/jenkins-slave.sh"
               - "-master"
-              - "http://$(JENKINS_SERVICE_HOST):$(JENKINS_SERVICE_PORT_HTTP)"
+              - "http://jenkins:$(JENKINS_SERVICE_PORT_HTTP)"
               - "-tunnel"
-              - "$(JENKINS_SERVICE_HOST):$(JENKINS_SERVICE_PORT_SLAVE)"
+              - "jenkins:$(JENKINS_SERVICE_PORT_SLAVE)"
               - "-username"
               - "jenkins"
               - "-password"
