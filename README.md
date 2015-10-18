@@ -37,28 +37,42 @@ $KUBERNETES_HOME/cluster/kube-up.sh
 Creating the pods and services
 ==============================
 
+GKE
+-------
+
 ```
+gcloud compute disks create --size 20GB jenkins-data-disk
 kubectl get nodes
-
-# Vagrant
-kubectl create --validate -f pod-vagrant.yml
-# or GKE
-kubectl create --validate -f pod-gke.yml
-
+kubectl create -f jenkins-master-gke.yml
+kubectl get rc
 kubectl get pods
-kubectl create --validate -f service.yml
+kubectl create -f service-gke.yml
 kubectl get services
-kubectl create --validate -f replication.yml
+kubectl create -f jenkins-slaves.yml
 kubectl get rc
 kubectl get pods
 kubectl scale replicationcontrollers --replicas=2 jenkins-slave
-
-# if running in GCE, create the forwarding rule
+kubectl describe services/jenkins
 gcloud compute forwarding-rules list
-gcloud compute forwarding-rules describe --region us-central1 kubernetes-default-jenkins
-gcloud compute firewall-rules create --validate jenkins-node-master --allow=tcp:8888 --target-tags kubernetes-minion
+```
+
+Vagrant
+-------
 
 ```
+kubectl get nodes
+kubectl create -f jenkins-master-vagrant.yml
+kubectl get rc
+kubectl get pods
+kubectl create -f service-vagrant.yml
+kubectl get services
+kubectl describe services/jenkins
+kubectl create -f jenkins-slaves.yml
+kubectl get rc
+kubectl get pods
+kubectl scale replicationcontrollers --replicas=2 jenkins-slave
+```
+
 
 Rolling update
 ==============
@@ -71,12 +85,10 @@ Tearing down
 ============
 
 ```
-kubectl stop jenkins-slave
-kubectl delete replicationcontrollers jenkins-slave
-kubectl delete pods jenkins
+kubectl stop replicationcontrollers jenkins-slave
+kubectl stop replicationcontrollers jenkins
 kubectl delete services jenkins
 $KUBERNETES_HOME/cluster/kube-down.sh
-gcloud compute firewall-rules delete jenkins-node-master
 ```
 
 Demo

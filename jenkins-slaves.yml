@@ -16,7 +16,7 @@
         containers: 
           - 
             name: "jenkins-slave"
-            image: "csanchez/jenkins-swarm-slave:2.0"
+            image: "csanchez/jenkins-swarm-slave:2.0-net-tools"
             env: 
               # these env vars are a hack only needed when running under docker-compose in one host
               # - 
@@ -28,12 +28,20 @@
             command: 
               - "/usr/local/bin/jenkins-slave.sh"
               - "-master"
-              - "http://$(JENKINS_SERVICE_HOST):$(JENKINS_SERVICE_PORT_HTTP)"
+              - "http://jenkins:$(JENKINS_SERVICE_PORT_HTTP)"
               - "-tunnel"
-              - "$(JENKINS_SERVICE_HOST):$(JENKINS_SERVICE_PORT_SLAVE)"
+              - "jenkins:$(JENKINS_SERVICE_PORT_SLAVE)"
               - "-username"
               - "jenkins"
               - "-password"
               - "jenkins"
               - "-executors"
               - "1"
+            livenessProbe:
+              exec:
+                command:
+                - sh
+                - -c
+                - "netstat -tan | grep ESTABLISHED"
+              initialDelaySeconds: 60
+              timeoutSeconds: 1
