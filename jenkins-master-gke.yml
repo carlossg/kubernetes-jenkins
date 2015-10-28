@@ -14,17 +14,13 @@
           name: "jenkins"
       spec: 
         containers: 
-          - 
-            name: "jenkins"
+          - name: "jenkins"
             image: "csanchez/jenkins-swarm:1.625.1-for-volumes"
             ports: 
-              - 
-                containerPort: 8080
-              - 
-                containerPort: 50000
+              - containerPort: 8080
+              - containerPort: 50000
             volumeMounts: 
-              - 
-                name: "jenkins-data"
+              - name: "jenkins-data"
                 mountPath: "/var/jenkins_home"
             livenessProbe:
               httpGet:
@@ -33,8 +29,7 @@
               initialDelaySeconds: 60
               timeoutSeconds: 5
         volumes: 
-          - 
-            name: "jenkins-data"
+          - name: "jenkins-data"
             gcePersistentDisk:
               pdName: jenkins-data-disk
               fsType: ext4
