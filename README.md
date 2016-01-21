@@ -16,7 +16,7 @@ docker-compose up
 ```
 
 When using boot2docker or Docker Engine with a remote host, the remote Kubernetes API can be exposed
-with `docker-machine ssh MACHINE_NAME -- -L 0.0.0.0:8080:localhost:8080` or `boot2docker ssh -L 0.0.0.0:8080:localhost:8080`
+with `docker-machine ssh MACHINE_NAME -L 0.0.0.0:8080:localhost:8080` or `boot2docker ssh -L 0.0.0.0:8080:localhost:8080`
 
 More info
 
